@@ -1,6 +1,6 @@
 <script>
-    import Fa from 'svelte-fa'
-    import {faLightbulb, faChair, faTicket} from '@fortawesome/free-solid-svg-icons'
+    import Fa from 'svelte-fa/src/fa.svelte'
+    import {faLightbulb, faChair, faTicket} from '@fortawesome/free-solid-svg-icons/index.es'
     import {State} from "../state.js";
     import ScreeningStore from "../stores/screeningStore.js";
 
