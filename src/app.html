@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <link rel="icon" href="%sveltekit.assets%/favicon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+            background: white;
+            color: black;
+            font-family: Helvetica, Arial Ce, Arial, sans-serif;
+        }
+
+        h2 {
+            margin: 0.5em 0 0 0;
+        }
+
+        h3 {
+            margin: 0 0 0.5em 0;
+            padding-left: 0.3em;
+            border-radius: 0.4em;
+            background-color: #e8e8ff;
+            cursor: Pointer
+        }
+
+        h4 {
+            margin: 0 0 0.1em 0
+        }
+
+        div .line {
+            display: inline-block;
+        }
+
+        .day {
+            margin: 0 0 1em 1em;
+            display: none;
+            padding: 0.2em;
+        }
+
+        .place {
+            margin: 0 0 0.5em 0;
+        }
+
+        .proj {
+            margin: 0 0 0.15em 0;
+            padding-left: 0.2em;
+            border-radius: 0.3em;
+            background-color: #f0f0ff;
+            position: relative;
+            cursor: Pointer
+        }
+
+        .projsel {
+            background-color: #fff0f4
+        }
+
+        .desc {
+            margin: 0 0 0.5em 1em;
+            font-size: 0.9em;
+        }
+
+        .right {
+            position: absolute;
+            right: 0.2em;
+            top: 0
+        }
+
+        .taright {
+            text-align: right;
+        }
+
+        .small {
+            font-size: small;
+            color: gray;
+        }
+
+        p {
+            margin: 0.5em 0 0.5em 0
+        }
+
+        input {
+            margin: 0;
+        }
+
+        .hide {
+            display: none;
+        }
+
+        form {
+            margin-bottom: 0.5em
+        }
+
+        @media (max-width: 500px) {
+            .resp100 {
+                width: 98%
+            }
+
+            .resp90 {
+                width: 83%
+            }
+
+            .resp10 {
+                width: 14%
+            }
+        }
+
+        #menu {
+            padding-top: 0.2em;
+            background-color: #88889f;
+            margin-bottom: 0.4em;
+        }
+
+        #menu > div {
+            margin-left: 1%;
+            width: 30%;
+            padding-left: 0.4em;
+            float: left;
+            border-radius: 0.4em 0.4em 0 0;
+            overflow: hidden;
+        }
+
+        .mnu-a {
+            font-weight: bold;
+            background-color: white;
+        }
+
+        .mnu-i {
+            color: white;
+            background-color: #b8b8cf;
+            cursor: Pointer
+        }
+
+        .content {
+            padding: 0.2em 0.2em 0.5em 0.2em;
+        }
+    </style>
+    %sveltekit.head%
+</head>
+<body>
+<div>%sveltekit.body%</div>
+</body>
+</html>
