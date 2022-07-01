@@ -40,7 +40,7 @@
 </script>
 <div class="proj" style="background-color:{color}">
     <div on:click={toggle}>
-        {time} <b>{code}</b> {movie.title} <span class="small">| {movie.duration}</span>
+        {time.split(" ")[1]} <b>{code}</b> {movie.title} <span class="small">| {movie.duration}</span>
     </div>
     <div class="right">
         <Buttons state={state} id={code}/>

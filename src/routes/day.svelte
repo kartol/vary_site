@@ -15,7 +15,7 @@
         <h4>{cinema}</h4>
         <div class="place">
             {#each screenings as screening (screening.id)}
-                <Screening time={screening.date} code={screening.code}
+                <Screening time={screening.datetime} code={screening.code}
                            movie={movies[screening.movie]}>
                     <p>Další projekce:</p>
                     <table id="projtable">
