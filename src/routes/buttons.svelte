@@ -1,6 +1,6 @@
 <script>
     import Fa from 'svelte-fa/src/fa.svelte'
-    import {faLightbulb, faChair, faTicket} from '@fortawesome/free-solid-svg-icons/index.es'
+    import {faStar, faChair, faTicket} from '@fortawesome/free-solid-svg-icons/index.es'
     import {State} from "../state.js";
     import ScreeningStore from "../stores/screeningStore.js";
 
@@ -18,15 +18,18 @@
         switch (state) {
             case State.Wish:
                 resetColors()
-                colorWish = 'red'
+                colorWish = '#e5b600'
                 break;
             case State.Wait:
                 resetColors()
-                colorWait = 'red'
+                colorWait = '#0046fd'
                 break
             case State.Ticket:
                 resetColors()
-                colorTicket = 'red'
+                colorTicket = '#ff547f'
+                break
+            default:
+                resetColors()
                 break
         }
     }
@@ -59,7 +62,7 @@
 </script>
 
 <span on:click={() => handleChange(State.Wish)}>
-    <Fa icon={faLightbulb} color={colorWish}/>
+    <Fa icon={faStar} color={colorWish}/>
 </span>
 <span on:click={() => handleChange(State.Wait)}>
     <Fa icon={faChair} color={colorWait}/>
