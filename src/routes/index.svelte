@@ -1,4 +1,5 @@
 <script>
+
     import Day from './day.svelte'
     import screenings_data from '../jsons/screenings_out.json';
     import movies_data from '../jsons/movies_out.json';
@@ -17,7 +18,13 @@
         for (let j = 0; j < movie.screenings_ids.length; j++) {
             const idx = movie.screenings_ids[j]
             const s = screenings[idx]
-            screenings_movie.push({'code': s.code, 'date': s.date, 'cinema': s.cinema, 'id': s.id})
+            screenings_movie.push({
+                'code': s.code,
+                'date': s.date,
+                'cinema': s.cinema,
+                'id': s.id,
+                'timestamp': s.timestamp
+            })
         }
         movie.screenings = screenings_movie
         movies[movie.id] = movie

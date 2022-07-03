@@ -22,11 +22,11 @@
                 break;
             case State.Wait:
                 resetColors()
-                colorWait = '#0046fd'
+                colorWait = '#be0030'
                 break
             case State.Ticket:
                 resetColors()
-                colorTicket = '#ff547f'
+                colorTicket = '#0db600'
                 break
             default:
                 resetColors()

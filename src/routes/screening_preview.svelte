@@ -2,15 +2,15 @@
     import ScreeningStore from "../stores/screeningStore.js";
     import Buttons from "./buttons.svelte"
     import {onDestroy} from "svelte";
+    import Time from "svelte-time";
     import {State} from "../state.js";
 
-    export let code, time, cinema
+    export let code, timestamp, cinema
     let state = State.Default;
 
     const unsubscribe = ScreeningStore.subscribe(data => {
         state = data[code];
     })
-
 
     onDestroy(unsubscribe)
 
@@ -38,7 +38,9 @@
 <tr class="" data-id-proj="57|34267-1" style="background-color:{color}">
     <td>{code}</td>
     <!--                <td>Ne</td>-->
-    <td class="taright">{time}</td>
+    <td class="taright">
+        <Time timestamp={new Date(parseInt(timestamp) * 1000 - 2*60*60*1000)} format="ddd D.M. HH:mm"/>
+    </td>
     <td>{cinema}</td>
     <td>
         <Buttons state={state} id={code}/>

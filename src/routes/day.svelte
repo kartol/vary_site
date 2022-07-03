@@ -15,14 +15,14 @@
         <h4>{cinema}</h4>
         <div class="place">
             {#each screenings as screening (screening.id)}
-                <Screening time={screening.datetime} code={screening.code}
+                <Screening timestamp={screening.timestamp} code={screening.code}
                            movie={movies[screening.movie]}>
                     <p>Další projekce:</p>
                     <table id="projtable">
                         <tbody>
                         {#each movies[screening.movie].screenings as s}
                             {#if s.id !== screening.id}
-                                <ScreeningPreview code={s.code} time={s.date} cinema={s.cinema}/>
+                                <ScreeningPreview code={s.code} timestamp={s.timestamp} cinema={s.cinema}/>
                             {/if}
                         {/each}
                         </tbody>

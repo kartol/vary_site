@@ -2,9 +2,10 @@
     import ScreeningStore from "../stores/screeningStore.js";
     import Buttons from "./buttons.svelte"
     import {onDestroy} from "svelte";
+    import Time from "svelte-time";
     import {State} from "../state.js";
 
-    export let time, code, movie;
+    export let timestamp, code, movie;
     let state = State.Default;
 
     const unsubscribe = ScreeningStore.subscribe(data => {
@@ -19,10 +20,10 @@
                 color = "#fdf4d7"
                 break;
             case State.Wait:
-                color = "#d7edfd"
+                color = "#ffdbe6"
                 break
             case State.Ticket:
-                color = "#ffdbe6"
+                color = "#c8ffc1"
                 break
             default:
                 color = "#f0f0ff"
@@ -40,7 +41,7 @@
 </script>
 <div class="proj" style="background-color:{color}">
     <div on:click={toggle}>
-        {time.split(" ")[1]} <b>{code}</b> {movie.title} <span class="small">| {movie.duration}</span>
+        <Time timestamp={new Date(parseInt(timestamp) * 1000 - 2*60*60*1000)}  format="HH:mm"/> <b>{code}</b> {movie.title} <span class="small">| {movie.duration}</span>
     </div>
     <div class="right">
         <Buttons state={state} id={code}/>
