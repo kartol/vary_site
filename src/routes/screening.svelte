@@ -41,7 +41,8 @@
 </script>
 <div class="proj" style="background-color:{color}">
     <div on:click={toggle}>
-        <Time timestamp={new Date(parseInt(timestamp) * 1000 - 2*60*60*1000)}  format="HH:mm"/> <b>{code}</b> {movie.title} <span class="small">| {movie.duration}</span>
+        <Time timestamp={new Date(parseInt(timestamp) * 1000 - 2*60*60*1000)} format="HH:mm"/>
+        <b>{code}</b> {movie.title} <span class="small">| {movie.duration}</span>
     </div>
     <div class="right">
         <Buttons state={state} id={code}/>

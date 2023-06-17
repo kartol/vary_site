@@ -15,7 +15,7 @@ export default {
         }),
         vite: {
             optimizeDeps: {
-                exclude: ["dayjs"],
+                include: ["dayjs/plugin/relativeTime.js"],
             },
         }
     }

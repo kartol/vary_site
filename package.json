@@ -22,7 +22,6 @@
 	"type": "module",
 	"dependencies": {
 		"@fortawesome/free-brands-svg-icons": "^6.1.1",
-		"@fortawesome/free-solid-svg-icons": "^6.1.1",
-		"svelte-time": "^0.7.1"
+		"@fortawesome/free-solid-svg-icons": "^6.1.1"
 	}
 }
