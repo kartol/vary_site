@@ -1,5 +1,4 @@
 <script>
-
     import Days from './days.svelte'
     import screenings_by_day from "../jsons/screenings_by_day.json";
     import {State} from "../state.js";

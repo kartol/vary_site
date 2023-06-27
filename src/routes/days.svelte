@@ -1,5 +1,4 @@
 <script>
-
     import Day from './day.svelte'
     import screenings_data from "../jsons/screenings_out.json";
     import movies_data from "../jsons/movies_out.json";

@@ -1,6 +1,6 @@
 import adapter from '@sveltejs/adapter-netlify';
 
-export default {
+const config = {
     kit: {
         // default options are shown
         adapter: adapter({
@@ -13,10 +13,8 @@ export default {
             // if `edge` is true, this option cannot be used
             split: false
         }),
-        vite: {
-            optimizeDeps: {
-                include: ["dayjs/plugin/relativeTime.js"],
-            },
-        }
     }
 };
+
+
+export default config;
