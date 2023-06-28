@@ -1,1 +1,4646 @@
-[{"movie":0,"code":"1H1","date":"30.6.","cinema":"Divadlo Husovka","id":0,"datetime":"2022 30.6. 10:30","timestamp":1656585000},{"movie":0,"code":"2H2","date":"1.7.","cinema":"Divadlo Husovka","id":1,"datetime":"2022 1.7. 13:30","timestamp":1656682200},{"movie":0,"code":"7H3","date":"6.7.","cinema":"Divadlo Husovka","id":2,"datetime":"2022 6.7. 16:30","timestamp":1657125000},{"movie":1,"code":"614","date":"5.7.","cinema":"Velk\u00fd s\u00e1l","id":3,"datetime":"2022 5.7. 13:30","timestamp":1657027800},{"movie":1,"code":"812","date":"7.7.","cinema":"Velk\u00fd s\u00e1l","id":4,"datetime":"2022 7.7. 10:00","timestamp":1657188000},{"movie":2,"code":"1L5","date":"30.6.","cinema":"L\u00e1zn\u011b III","id":5,"datetime":"2022 30.6. 19:00","timestamp":1656615600},{"movie":2,"code":"513","date":"4.7.","cinema":"Velk\u00fd s\u00e1l","id":6,"datetime":"2022 4.7. 11:00","timestamp":1656932400},{"movie":2,"code":"6P5","date":"5.7.","cinema":"Kinos\u00e1l Pupp","id":7,"datetime":"2022 5.7. 19:00","timestamp":1657047600},{"movie":3,"code":"3D3","date":"2.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":8,"datetime":"2022 2.7. 16:00","timestamp":1656777600},{"movie":3,"code":"4C4","date":"3.7.","cinema":"Kino \u010cas","id":9,"datetime":"2022 3.7. 12:30","timestamp":1656851400},{"movie":3,"code":"5L1","date":"4.7.","cinema":"L\u00e1zn\u011b III","id":10,"datetime":"2022 4.7. 10:00","timestamp":1656928800},{"movie":3,"code":"652","date":"5.7.","cinema":"Kinos\u00e1l B","id":11,"datetime":"2022 5.7. 11:30","timestamp":1657020600},{"movie":4,"code":"7D4","date":"6.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":12,"datetime":"2022 6.7. 19:00","timestamp":1657134000},{"movie":4,"code":"8C5","date":"7.7.","cinema":"Kino \u010cas","id":13,"datetime":"2022 7.7. 15:00","timestamp":1657206000},{"movie":4,"code":"9L2","date":"8.7.","cinema":"L\u00e1zn\u011b III","id":14,"datetime":"2022 8.7. 13:00","timestamp":1657285200},{"movie":4,"code":"956","date":"8.7.","cinema":"Kinos\u00e1l B","id":15,"datetime":"2022 8.7. 20:00","timestamp":1657310400},{"movie":5,"code":"1L6","date":"30.6.","cinema":"L\u00e1zn\u011b III","id":16,"datetime":"2022 30.6. 22:00","timestamp":1656626400},{"movie":5,"code":"2H7","date":"1.7.","cinema":"Divadlo Husovka","id":17,"datetime":"2022 1.7. 22:30","timestamp":1656714600},{"movie":5,"code":"657","date":"5.7.","cinema":"Kinos\u00e1l B","id":18,"datetime":"2022 5.7. 22:30","timestamp":1657060200},{"movie":6,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":19,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":6,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":20,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":6,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":21,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":7,"code":"354","date":"2.7.","cinema":"Kinos\u00e1l B","id":22,"datetime":"2022 2.7. 17:00","timestamp":1656781200},{"movie":7,"code":"7K7","date":"6.7.","cinema":"Kino Drahom\u00edra","id":23,"datetime":"2022 6.7. 21:00","timestamp":1657141200},{"movie":7,"code":"8H3","date":"7.7.","cinema":"Divadlo Husovka","id":24,"datetime":"2022 7.7. 16:30","timestamp":1657211400},{"movie":8,"code":"236","date":"1.7.","cinema":"Kongresov\u00fd s\u00e1l","id":25,"datetime":"2022 1.7. 19:00","timestamp":1656702000},{"movie":8,"code":"327","date":"2.7.","cinema":"Mal\u00fd s\u00e1l","id":26,"datetime":"2022 2.7. 21:00","timestamp":1656795600},{"movie":9,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":27,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":9,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":28,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":9,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":29,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":10,"code":"416","date":"3.7.","cinema":"Velk\u00fd s\u00e1l","id":30,"datetime":"2022 3.7. 17:00","timestamp":1656867600},{"movie":10,"code":"5P1","date":"4.7.","cinema":"Kinos\u00e1l Pupp","id":31,"datetime":"2022 4.7. 10:00","timestamp":1656928800},{"movie":10,"code":"6L4","date":"5.7.","cinema":"L\u00e1zn\u011b III","id":32,"datetime":"2022 5.7. 16:00","timestamp":1657036800},{"movie":10,"code":"734","date":"6.7.","cinema":"Kongresov\u00fd s\u00e1l","id":33,"datetime":"2022 6.7. 13:00","timestamp":1657112400},{"movie":11,"code":"419","date":"3.7.","cinema":"Velk\u00fd s\u00e1l","id":34,"datetime":"2022 3.7. 22:30","timestamp":1656887400},{"movie":11,"code":"5P4","date":"4.7.","cinema":"Kinos\u00e1l Pupp","id":35,"datetime":"2022 4.7. 16:00","timestamp":1656950400},{"movie":11,"code":"623","date":"5.7.","cinema":"Mal\u00fd s\u00e1l","id":36,"datetime":"2022 5.7. 12:00","timestamp":1657022400},{"movie":11,"code":"8L6","date":"7.7.","cinema":"L\u00e1zn\u011b III","id":37,"datetime":"2022 7.7. 22:00","timestamp":1657231200},{"movie":12,"code":"2H3","date":"1.7.","cinema":"Divadlo Husovka","id":38,"datetime":"2022 1.7. 16:30","timestamp":1656693000},{"movie":12,"code":"6H2","date":"5.7.","cinema":"Divadlo Husovka","id":39,"datetime":"2022 5.7. 13:30","timestamp":1657027800},{"movie":12,"code":"8L5","date":"7.7.","cinema":"L\u00e1zn\u011b III","id":40,"datetime":"2022 7.7. 19:00","timestamp":1657220400},{"movie":13,"code":"5D4","date":"4.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":41,"datetime":"2022 4.7. 19:00","timestamp":1656961200},{"movie":13,"code":"6C5","date":"5.7.","cinema":"Kino \u010cas","id":42,"datetime":"2022 5.7. 15:00","timestamp":1657033200},{"movie":13,"code":"7L2","date":"6.7.","cinema":"L\u00e1zn\u011b III","id":43,"datetime":"2022 6.7. 13:00","timestamp":1657112400},{"movie":13,"code":"853","date":"7.7.","cinema":"Kinos\u00e1l B","id":44,"datetime":"2022 7.7. 14:00","timestamp":1657202400},{"movie":14,"code":"2H1","date":"1.7.","cinema":"Divadlo Husovka","id":45,"datetime":"2022 1.7. 10:30","timestamp":1656671400},{"movie":14,"code":"4H2","date":"3.7.","cinema":"Divadlo Husovka","id":46,"datetime":"2022 3.7. 13:30","timestamp":1656855000},{"movie":14,"code":"6H3","date":"5.7.","cinema":"Divadlo Husovka","id":47,"datetime":"2022 5.7. 16:30","timestamp":1657038600},{"movie":15,"code":"211","date":"1.7.","cinema":"Velk\u00fd s\u00e1l","id":48,"datetime":"2022 1.7. 8:30","timestamp":1656664200},{"movie":15,"code":"6P6","date":"5.7.","cinema":"Kinos\u00e1l Pupp","id":49,"datetime":"2022 5.7. 22:00","timestamp":1657058400},{"movie":16,"code":"2C9","date":"1.7.","cinema":"Kino \u010cas","id":50,"datetime":"2022 1.7. 23:59","timestamp":1656719940},{"movie":16,"code":"728","date":"6.7.","cinema":"Mal\u00fd s\u00e1l","id":51,"datetime":"2022 6.7. 23:59","timestamp":1657151940},{"movie":17,"code":"4K5","date":"3.7.","cinema":"Kino Drahom\u00edra","id":52,"datetime":"2022 3.7. 15:00","timestamp":1656860400},{"movie":17,"code":"5H3","date":"4.7.","cinema":"Divadlo Husovka","id":53,"datetime":"2022 4.7. 16:30","timestamp":1656952200},{"movie":17,"code":"9H1","date":"8.7.","cinema":"Divadlo Husovka","id":54,"datetime":"2022 8.7. 10:30","timestamp":1657276200},{"movie":18,"code":"725","date":"6.7.","cinema":"Mal\u00fd s\u00e1l","id":55,"datetime":"2022 6.7. 18:00","timestamp":1657130400},{"movie":18,"code":"924","date":"8.7.","cinema":"Mal\u00fd s\u00e1l","id":56,"datetime":"2022 8.7. 15:00","timestamp":1657292400},{"movie":19,"code":"318","date":"2.7.","cinema":"Velk\u00fd s\u00e1l","id":57,"datetime":"2022 2.7. 20:00","timestamp":1656792000},{"movie":19,"code":"4P2","date":"3.7.","cinema":"Kinos\u00e1l Pupp","id":58,"datetime":"2022 3.7. 13:00","timestamp":1656853200},{"movie":19,"code":"5L5","date":"4.7.","cinema":"L\u00e1zn\u011b III","id":59,"datetime":"2022 4.7. 19:00","timestamp":1656961200},{"movie":19,"code":"636","date":"5.7.","cinema":"Kongresov\u00fd s\u00e1l","id":60,"datetime":"2022 5.7. 19:00","timestamp":1657047600},{"movie":20,"code":"337","date":"2.7.","cinema":"Kongresov\u00fd s\u00e1l","id":61,"datetime":"2022 2.7. 22:00","timestamp":1656799200},{"movie":20,"code":"521","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":62,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":21,"code":"336","date":"2.7.","cinema":"Kongresov\u00fd s\u00e1l","id":63,"datetime":"2022 2.7. 19:00","timestamp":1656788400},{"movie":21,"code":"515","date":"4.7.","cinema":"Velk\u00fd s\u00e1l","id":64,"datetime":"2022 4.7. 14:00","timestamp":1656943200},{"movie":22,"code":"225","date":"1.7.","cinema":"Mal\u00fd s\u00e1l","id":65,"datetime":"2022 1.7. 18:00","timestamp":1656698400},{"movie":22,"code":"3C7","date":"2.7.","cinema":"Kino \u010cas","id":66,"datetime":"2022 2.7. 21:00","timestamp":1656795600},{"movie":22,"code":"651","date":"5.7.","cinema":"Kinos\u00e1l B","id":67,"datetime":"2022 5.7. 9:00","timestamp":1657011600},{"movie":22,"code":"9K3","date":"8.7.","cinema":"Kino Drahom\u00edra","id":68,"datetime":"2022 8.7. 12:00","timestamp":1657281600},{"movie":23,"code":"2L4","date":"1.7.","cinema":"L\u00e1zn\u011b III","id":69,"datetime":"2022 1.7. 16:00","timestamp":1656691200},{"movie":23,"code":"5K1","date":"4.7.","cinema":"Kino Drahom\u00edra","id":70,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":23,"code":"8D2","date":"7.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":71,"datetime":"2022 7.7. 13:00","timestamp":1657198800},{"movie":24,"code":"736","date":"6.7.","cinema":"Kongresov\u00fd s\u00e1l","id":72,"datetime":"2022 6.7. 19:00","timestamp":1657134000},{"movie":24,"code":"9K5","date":"8.7.","cinema":"Kino Drahom\u00edra","id":73,"datetime":"2022 8.7. 15:00","timestamp":1657292400},{"movie":25,"code":"3L6","date":"2.7.","cinema":"L\u00e1zn\u011b III","id":74,"datetime":"2022 2.7. 22:00","timestamp":1656799200},{"movie":25,"code":"821","date":"7.7.","cinema":"Mal\u00fd s\u00e1l","id":75,"datetime":"2022 7.7. 9:00","timestamp":1657184400},{"movie":26,"code":"2C6","date":"1.7.","cinema":"Kino \u010cas","id":76,"datetime":"2022 1.7. 18:00","timestamp":1656698400},{"movie":26,"code":"3K3","date":"2.7.","cinema":"Kino Drahom\u00edra","id":77,"datetime":"2022 2.7. 12:00","timestamp":1656763200},{"movie":26,"code":"8H2","date":"7.7.","cinema":"Divadlo Husovka","id":78,"datetime":"2022 7.7. 13:30","timestamp":1657200600},{"movie":27,"code":"253","date":"1.7.","cinema":"Kinos\u00e1l B","id":79,"datetime":"2022 1.7. 14:00","timestamp":1656684000},{"movie":27,"code":"6C6","date":"5.7.","cinema":"Kino \u010cas","id":80,"datetime":"2022 5.7. 18:00","timestamp":1657044000},{"movie":27,"code":"8P5","date":"7.7.","cinema":"Kinos\u00e1l Pupp","id":81,"datetime":"2022 7.7. 19:00","timestamp":1657220400},{"movie":28,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":82,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":28,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":83,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":28,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":84,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":29,"code":"411","date":"3.7.","cinema":"Velk\u00fd s\u00e1l","id":85,"datetime":"2022 3.7. 8:30","timestamp":1656837000},{"movie":29,"code":"9D4","date":"8.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":86,"datetime":"2022 8.7. 19:00","timestamp":1657306800},{"movie":30,"code":"1P5","date":"30.6.","cinema":"Kinos\u00e1l Pupp","id":87,"datetime":"2022 30.6. 19:00","timestamp":1656615600},{"movie":30,"code":"5D5","date":"4.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":88,"datetime":"2022 4.7. 22:00","timestamp":1656972000},{"movie":30,"code":"721","date":"6.7.","cinema":"Mal\u00fd s\u00e1l","id":89,"datetime":"2022 6.7. 9:00","timestamp":1657098000},{"movie":31,"code":"7D2","date":"6.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":90,"datetime":"2022 6.7. 13:00","timestamp":1657112400},{"movie":31,"code":"9H7","date":"8.7.","cinema":"Divadlo Husovka","id":91,"datetime":"2022 8.7. 22:30","timestamp":1657319400},{"movie":32,"code":"219","date":"1.7.","cinema":"Velk\u00fd s\u00e1l","id":92,"datetime":"2022 1.7. 22:30","timestamp":1656714600},{"movie":33,"code":"224","date":"1.7.","cinema":"Mal\u00fd s\u00e1l","id":93,"datetime":"2022 1.7. 15:00","timestamp":1656687600},{"movie":33,"code":"3C6","date":"2.7.","cinema":"Kino \u010cas","id":94,"datetime":"2022 2.7. 18:00","timestamp":1656784800},{"movie":33,"code":"6L6","date":"5.7.","cinema":"L\u00e1zn\u011b III","id":95,"datetime":"2022 5.7. 22:00","timestamp":1657058400},{"movie":34,"code":"4K6","date":"3.7.","cinema":"Kino Drahom\u00edra","id":96,"datetime":"2022 3.7. 18:00","timestamp":1656871200},{"movie":34,"code":"5C6","date":"4.7.","cinema":"Kino \u010cas","id":97,"datetime":"2022 4.7. 18:00","timestamp":1656957600},{"movie":34,"code":"9H2","date":"8.7.","cinema":"Divadlo Husovka","id":98,"datetime":"2022 8.7. 13:30","timestamp":1657287000},{"movie":35,"code":"2C6","date":"1.7.","cinema":"Kino \u010cas","id":99,"datetime":"2022 1.7. 18:00","timestamp":1656698400},{"movie":35,"code":"3K3","date":"2.7.","cinema":"Kino Drahom\u00edra","id":100,"datetime":"2022 2.7. 12:00","timestamp":1656763200},{"movie":35,"code":"8H2","date":"7.7.","cinema":"Divadlo Husovka","id":101,"datetime":"2022 7.7. 13:30","timestamp":1657200600},{"movie":36,"code":"2K3","date":"1.7.","cinema":"Kino Drahom\u00edra","id":102,"datetime":"2022 1.7. 12:00","timestamp":1656676800},{"movie":36,"code":"453","date":"3.7.","cinema":"Kinos\u00e1l B","id":103,"datetime":"2022 3.7. 14:00","timestamp":1656856800},{"movie":37,"code":"2K3","date":"1.7.","cinema":"Kino Drahom\u00edra","id":104,"datetime":"2022 1.7. 12:00","timestamp":1656676800},{"movie":37,"code":"453","date":"3.7.","cinema":"Kinos\u00e1l B","id":105,"datetime":"2022 3.7. 14:00","timestamp":1656856800},{"movie":38,"code":"716","date":"6.7.","cinema":"Velk\u00fd s\u00e1l","id":106,"datetime":"2022 6.7. 17:00","timestamp":1657126800},{"movie":38,"code":"8P1","date":"7.7.","cinema":"Kinos\u00e1l Pupp","id":107,"datetime":"2022 7.7. 10:00","timestamp":1657188000},{"movie":38,"code":"934","date":"8.7.","cinema":"Kongresov\u00fd s\u00e1l","id":108,"datetime":"2022 8.7. 13:00","timestamp":1657285200},{"movie":38,"code":"9L4","date":"8.7.","cinema":"L\u00e1zn\u011b III","id":109,"datetime":"2022 8.7. 16:00","timestamp":1657296000},{"movie":39,"code":"5D3","date":"4.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":110,"datetime":"2022 4.7. 16:00","timestamp":1656950400},{"movie":39,"code":"6C3","date":"5.7.","cinema":"Kino \u010cas","id":111,"datetime":"2022 5.7. 12:00","timestamp":1657022400},{"movie":39,"code":"7L1","date":"6.7.","cinema":"L\u00e1zn\u011b III","id":112,"datetime":"2022 6.7. 10:00","timestamp":1657101600},{"movie":39,"code":"852","date":"7.7.","cinema":"Kinos\u00e1l B","id":113,"datetime":"2022 7.7. 11:30","timestamp":1657193400},{"movie":40,"code":"153","date":"30.6.","cinema":"Kinos\u00e1l B","id":114,"datetime":"2022 30.6. 14:00","timestamp":1656597600},{"movie":40,"code":"423","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":115,"datetime":"2022 3.7. 12:00","timestamp":1656849600},{"movie":40,"code":"8C8","date":"7.7.","cinema":"Kino \u010cas","id":116,"datetime":"2022 7.7. 22:00","timestamp":1657231200},{"movie":41,"code":"6D3","date":"5.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":117,"datetime":"2022 5.7. 16:00","timestamp":1657036800},{"movie":41,"code":"7C3","date":"6.7.","cinema":"Kino \u010cas","id":118,"datetime":"2022 6.7. 12:00","timestamp":1657108800},{"movie":41,"code":"8L1","date":"7.7.","cinema":"L\u00e1zn\u011b III","id":119,"datetime":"2022 7.7. 10:00","timestamp":1657188000},{"movie":41,"code":"952","date":"8.7.","cinema":"Kinos\u00e1l B","id":120,"datetime":"2022 8.7. 11:30","timestamp":1657279800},{"movie":42,"code":"415","date":"3.7.","cinema":"Velk\u00fd s\u00e1l","id":121,"datetime":"2022 3.7. 14:00","timestamp":1656856800},{"movie":42,"code":"624","date":"5.7.","cinema":"Mal\u00fd s\u00e1l","id":122,"datetime":"2022 5.7. 15:00","timestamp":1657033200},{"movie":42,"code":"7K5","date":"6.7.","cinema":"Kino Drahom\u00edra","id":123,"datetime":"2022 6.7. 15:00","timestamp":1657119600},{"movie":42,"code":"951","date":"8.7.","cinema":"Kinos\u00e1l B","id":124,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":43,"code":"2K3","date":"1.7.","cinema":"Kino Drahom\u00edra","id":125,"datetime":"2022 1.7. 12:00","timestamp":1656676800},{"movie":43,"code":"453","date":"3.7.","cinema":"Kinos\u00e1l B","id":126,"datetime":"2022 3.7. 14:00","timestamp":1656856800},{"movie":44,"code":"216","date":"1.7.","cinema":"Velk\u00fd s\u00e1l","id":127,"datetime":"2022 1.7. 17:00","timestamp":1656694800},{"movie":44,"code":"3P1","date":"2.7.","cinema":"Kinos\u00e1l Pupp","id":128,"datetime":"2022 2.7. 10:00","timestamp":1656756000},{"movie":44,"code":"4L4","date":"3.7.","cinema":"L\u00e1zn\u011b III","id":129,"datetime":"2022 3.7. 16:00","timestamp":1656864000},{"movie":44,"code":"536","date":"4.7.","cinema":"Kongresov\u00fd s\u00e1l","id":130,"datetime":"2022 4.7. 19:00","timestamp":1656961200},{"movie":45,"code":"516","date":"4.7.","cinema":"Velk\u00fd s\u00e1l","id":131,"datetime":"2022 4.7. 17:00","timestamp":1656954000},{"movie":45,"code":"6P1","date":"5.7.","cinema":"Kinos\u00e1l Pupp","id":132,"datetime":"2022 5.7. 10:00","timestamp":1657015200},{"movie":45,"code":"7L4","date":"6.7.","cinema":"L\u00e1zn\u011b III","id":133,"datetime":"2022 6.7. 16:00","timestamp":1657123200},{"movie":45,"code":"834","date":"7.7.","cinema":"Kongresov\u00fd s\u00e1l","id":134,"datetime":"2022 7.7. 13:00","timestamp":1657198800},{"movie":46,"code":"3L6","date":"2.7.","cinema":"L\u00e1zn\u011b III","id":135,"datetime":"2022 2.7. 22:00","timestamp":1656799200},{"movie":46,"code":"821","date":"7.7.","cinema":"Mal\u00fd s\u00e1l","id":136,"datetime":"2022 7.7. 9:00","timestamp":1657184400},{"movie":47,"code":"3D4","date":"2.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":137,"datetime":"2022 2.7. 19:00","timestamp":1656788400},{"movie":47,"code":"4C5","date":"3.7.","cinema":"Kino \u010cas","id":138,"datetime":"2022 3.7. 15:00","timestamp":1656860400},{"movie":47,"code":"5L2","date":"4.7.","cinema":"L\u00e1zn\u011b III","id":139,"datetime":"2022 4.7. 13:00","timestamp":1656939600},{"movie":47,"code":"653","date":"5.7.","cinema":"Kinos\u00e1l B","id":140,"datetime":"2022 5.7. 14:00","timestamp":1657029600},{"movie":48,"code":"3C9","date":"2.7.","cinema":"Kino \u010cas","id":141,"datetime":"2022 2.7. 23:59","timestamp":1656806340},{"movie":48,"code":"7C9","date":"6.7.","cinema":"Kino \u010cas","id":142,"datetime":"2022 6.7. 23:59","timestamp":1657151940},{"movie":49,"code":"523","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":143,"datetime":"2022 4.7. 12:00","timestamp":1656936000},{"movie":49,"code":"6K5","date":"5.7.","cinema":"Kino Drahom\u00edra","id":144,"datetime":"2022 5.7. 15:00","timestamp":1657033200},{"movie":50,"code":"2L2","date":"1.7.","cinema":"L\u00e1zn\u011b III","id":145,"datetime":"2022 1.7. 13:00","timestamp":1656680400},{"movie":50,"code":"4D1","date":"3.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":146,"datetime":"2022 3.7. 10:00","timestamp":1656842400},{"movie":50,"code":"7K1","date":"6.7.","cinema":"Kino Drahom\u00edra","id":147,"datetime":"2022 6.7. 9:00","timestamp":1657098000},{"movie":51,"code":"2P6","date":"1.7.","cinema":"Kinos\u00e1l Pupp","id":148,"datetime":"2022 1.7. 22:00","timestamp":1656712800},{"movie":51,"code":"824","date":"7.7.","cinema":"Mal\u00fd s\u00e1l","id":149,"datetime":"2022 7.7. 15:00","timestamp":1657206000},{"movie":51,"code":"9D2","date":"8.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":150,"datetime":"2022 8.7. 13:00","timestamp":1657285200},{"movie":52,"code":"424","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":151,"datetime":"2022 3.7. 15:00","timestamp":1656860400},{"movie":53,"code":"2K7","date":"1.7.","cinema":"Kino Drahom\u00edra","id":152,"datetime":"2022 1.7. 21:00","timestamp":1656709200},{"movie":53,"code":"3H5","date":"2.7.","cinema":"Divadlo Husovka","id":153,"datetime":"2022 2.7. 19:30","timestamp":1656790200},{"movie":53,"code":"5H1","date":"4.7.","cinema":"Divadlo Husovka","id":154,"datetime":"2022 4.7. 10:30","timestamp":1656930600},{"movie":54,"code":"228","date":"1.7.","cinema":"Mal\u00fd s\u00e1l","id":155,"datetime":"2022 1.7. 23:59","timestamp":1656719940},{"movie":54,"code":"4C9","date":"3.7.","cinema":"Kino \u010cas","id":156,"datetime":"2022 3.7. 23:59","timestamp":1656892740},{"movie":54,"code":"6C9","date":"5.7.","cinema":"Kino \u010cas","id":157,"datetime":"2022 5.7. 23:59","timestamp":1657065540},{"movie":54,"code":"928","date":"8.7.","cinema":"Mal\u00fd s\u00e1l","id":158,"datetime":"2022 8.7. 23:59","timestamp":1657324740},{"movie":55,"code":"1P2","date":"30.6.","cinema":"Kinos\u00e1l Pupp","id":159,"datetime":"2022 30.6. 13:00","timestamp":1656594000},{"movie":55,"code":"2C1","date":"1.7.","cinema":"Kino \u010cas","id":160,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":55,"code":"613","date":"5.7.","cinema":"Velk\u00fd s\u00e1l","id":161,"datetime":"2022 5.7. 11:00","timestamp":1657018800},{"movie":56,"code":"213","date":"1.7.","cinema":"Velk\u00fd s\u00e1l","id":162,"datetime":"2022 1.7. 11:00","timestamp":1656673200},{"movie":56,"code":"7P6","date":"6.7.","cinema":"Kinos\u00e1l Pupp","id":163,"datetime":"2022 6.7. 22:00","timestamp":1657144800},{"movie":57,"code":"155","date":"30.6.","cinema":"Kinos\u00e1l B","id":164,"datetime":"2022 30.6. 19:00","timestamp":1656615600},{"movie":57,"code":"6K1","date":"5.7.","cinema":"Kino Drahom\u00edra","id":165,"datetime":"2022 5.7. 9:00","timestamp":1657011600},{"movie":57,"code":"755","date":"6.7.","cinema":"Kinos\u00e1l B","id":166,"datetime":"2022 6.7. 19:00","timestamp":1657134000},{"movie":58,"code":"131","date":"30.6.","cinema":"Kongresov\u00fd s\u00e1l","id":167,"datetime":"2022 30.6. 8:30","timestamp":1656577800},{"movie":58,"code":"2P2","date":"1.7.","cinema":"Kinos\u00e1l Pupp","id":168,"datetime":"2022 1.7. 13:00","timestamp":1656680400},{"movie":58,"code":"621","date":"5.7.","cinema":"Mal\u00fd s\u00e1l","id":169,"datetime":"2022 5.7. 9:00","timestamp":1657011600},{"movie":59,"code":"2K1","date":"1.7.","cinema":"Kino Drahom\u00edra","id":170,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":59,"code":"825","date":"7.7.","cinema":"Mal\u00fd s\u00e1l","id":171,"datetime":"2022 7.7. 18:00","timestamp":1657216800},{"movie":59,"code":"9C5","date":"8.7.","cinema":"Kino \u010cas","id":172,"datetime":"2022 8.7. 15:00","timestamp":1657292400},{"movie":60,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":173,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":60,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":174,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":60,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":175,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":61,"code":"221","date":"1.7.","cinema":"Mal\u00fd s\u00e1l","id":176,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":61,"code":"351","date":"2.7.","cinema":"Kinos\u00e1l B","id":177,"datetime":"2022 2.7. 9:00","timestamp":1656752400},{"movie":61,"code":"5P6","date":"4.7.","cinema":"Kinos\u00e1l Pupp","id":178,"datetime":"2022 4.7. 22:00","timestamp":1656972000},{"movie":62,"code":"137","date":"30.6.","cinema":"Kongresov\u00fd s\u00e1l","id":179,"datetime":"2022 30.6. 22:00","timestamp":1656626400},{"movie":62,"code":"51A","date":"4.7.","cinema":"Velk\u00fd s\u00e1l","id":180,"datetime":"2022 4.7. 23:00","timestamp":1656975600},{"movie":63,"code":"7D3","date":"6.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":181,"datetime":"2022 6.7. 16:00","timestamp":1657123200},{"movie":64,"code":"223","date":"1.7.","cinema":"Mal\u00fd s\u00e1l","id":182,"datetime":"2022 1.7. 12:00","timestamp":1656676800},{"movie":64,"code":"4K3","date":"3.7.","cinema":"Kino Drahom\u00edra","id":183,"datetime":"2022 3.7. 12:00","timestamp":1656849600},{"movie":64,"code":"751","date":"6.7.","cinema":"Kinos\u00e1l B","id":184,"datetime":"2022 6.7. 9:00","timestamp":1657098000},{"movie":65,"code":"1H2","date":"30.6.","cinema":"Divadlo Husovka","id":185,"datetime":"2022 30.6. 13:30","timestamp":1656595800},{"movie":65,"code":"4H1","date":"3.7.","cinema":"Divadlo Husovka","id":186,"datetime":"2022 3.7. 10:30","timestamp":1656844200},{"movie":65,"code":"9H3","date":"8.7.","cinema":"Divadlo Husovka","id":187,"datetime":"2022 8.7. 16:30","timestamp":1657297800},{"movie":66,"code":"1D3","date":"30.6.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":188,"datetime":"2022 30.6. 16:00","timestamp":1656604800},{"movie":66,"code":"4P6","date":"3.7.","cinema":"Kinos\u00e1l Pupp","id":189,"datetime":"2022 3.7. 22:00","timestamp":1656885600},{"movie":66,"code":"937","date":"8.7.","cinema":"Kongresov\u00fd s\u00e1l","id":190,"datetime":"2022 8.7. 22:00","timestamp":1657317600},{"movie":67,"code":"4K6","date":"3.7.","cinema":"Kino Drahom\u00edra","id":191,"datetime":"2022 3.7. 18:00","timestamp":1656871200},{"movie":67,"code":"5C6","date":"4.7.","cinema":"Kino \u010cas","id":192,"datetime":"2022 4.7. 18:00","timestamp":1656957600},{"movie":67,"code":"9H2","date":"8.7.","cinema":"Divadlo Husovka","id":193,"datetime":"2022 8.7. 13:30","timestamp":1657287000},{"movie":68,"code":"151","date":"30.6.","cinema":"Kinos\u00e1l B","id":194,"datetime":"2022 30.6. 9:00","timestamp":1656579600},{"movie":68,"code":"7K6","date":"6.7.","cinema":"Kino Drahom\u00edra","id":195,"datetime":"2022 6.7. 18:00","timestamp":1657130400},{"movie":68,"code":"827","date":"7.7.","cinema":"Mal\u00fd s\u00e1l","id":196,"datetime":"2022 7.7. 21:00","timestamp":1657227600},{"movie":69,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":197,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":69,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":198,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":69,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":199,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":70,"code":"2D2","date":"1.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":200,"datetime":"2022 1.7. 13:00","timestamp":1656680400},{"movie":70,"code":"3P4","date":"2.7.","cinema":"Kinos\u00e1l Pupp","id":201,"datetime":"2022 2.7. 16:00","timestamp":1656777600},{"movie":70,"code":"6K7","date":"5.7.","cinema":"Kino Drahom\u00edra","id":202,"datetime":"2022 5.7. 21:00","timestamp":1657054800},{"movie":71,"code":"1D4","date":"30.6.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":203,"datetime":"2022 30.6. 19:00","timestamp":1656615600},{"movie":71,"code":"5K2","date":"4.7.","cinema":"Kino Drahom\u00edra","id":204,"datetime":"2022 4.7. 11:00","timestamp":1656932400},{"movie":72,"code":"1H7","date":"30.6.","cinema":"Divadlo Husovka","id":205,"datetime":"2022 30.6. 22:30","timestamp":1656628200},{"movie":72,"code":"4C7","date":"3.7.","cinema":"Kino \u010cas","id":206,"datetime":"2022 3.7. 21:00","timestamp":1656882000},{"movie":72,"code":"5H2","date":"4.7.","cinema":"Divadlo Husovka","id":207,"datetime":"2022 4.7. 13:30","timestamp":1656941400},{"movie":73,"code":"215","date":"1.7.","cinema":"Velk\u00fd s\u00e1l","id":208,"datetime":"2022 1.7. 14:00","timestamp":1656684000},{"movie":74,"code":"325","date":"2.7.","cinema":"Mal\u00fd s\u00e1l","id":209,"datetime":"2022 2.7. 18:00","timestamp":1656784800},{"movie":74,"code":"4K7","date":"3.7.","cinema":"Kino Drahom\u00edra","id":210,"datetime":"2022 3.7. 21:00","timestamp":1656882000},{"movie":74,"code":"8H7","date":"7.7.","cinema":"Divadlo Husovka","id":211,"datetime":"2022 7.7. 22:30","timestamp":1657233000},{"movie":75,"code":"2L1","date":"1.7.","cinema":"L\u00e1zn\u011b III","id":212,"datetime":"2022 1.7. 10:00","timestamp":1656669600},{"movie":75,"code":"4H3","date":"3.7.","cinema":"Divadlo Husovka","id":213,"datetime":"2022 3.7. 16:30","timestamp":1656865800},{"movie":75,"code":"837","date":"7.7.","cinema":"Kongresov\u00fd s\u00e1l","id":214,"datetime":"2022 7.7. 22:00","timestamp":1657231200},{"movie":76,"code":"1C5","date":"30.6.","cinema":"Kino \u010cas","id":215,"datetime":"2022 30.6. 15:00","timestamp":1656601200},{"movie":76,"code":"619","date":"5.7.","cinema":"Velk\u00fd s\u00e1l","id":216,"datetime":"2022 5.7. 22:30","timestamp":1657060200},{"movie":76,"code":"8H5","date":"7.7.","cinema":"Divadlo Husovka","id":217,"datetime":"2022 7.7. 19:30","timestamp":1657222200},{"movie":77,"code":"3D1","date":"2.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":218,"datetime":"2022 2.7. 10:00","timestamp":1656756000},{"movie":77,"code":"713","date":"6.7.","cinema":"Velk\u00fd s\u00e1l","id":219,"datetime":"2022 6.7. 11:00","timestamp":1657105200},{"movie":77,"code":"923","date":"8.7.","cinema":"Mal\u00fd s\u00e1l","id":220,"datetime":"2022 8.7. 12:00","timestamp":1657281600},{"movie":78,"code":"313","date":"2.7.","cinema":"Velk\u00fd s\u00e1l","id":221,"datetime":"2022 2.7. 11:00","timestamp":1656759600},{"movie":78,"code":"4P5","date":"3.7.","cinema":"Kinos\u00e1l Pupp","id":222,"datetime":"2022 3.7. 19:00","timestamp":1656874800},{"movie":78,"code":"711","date":"6.7.","cinema":"Velk\u00fd s\u00e1l","id":223,"datetime":"2022 6.7. 8:30","timestamp":1657096200},{"movie":79,"code":"3D2","date":"2.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":224,"datetime":"2022 2.7. 13:00","timestamp":1656766800},{"movie":79,"code":"723","date":"6.7.","cinema":"Mal\u00fd s\u00e1l","id":225,"datetime":"2022 6.7. 12:00","timestamp":1657108800},{"movie":80,"code":"356","date":"2.7.","cinema":"Kinos\u00e1l B","id":226,"datetime":"2022 2.7. 20:00","timestamp":1656792000},{"movie":80,"code":"6H7","date":"5.7.","cinema":"Divadlo Husovka","id":227,"datetime":"2022 5.7. 22:30","timestamp":1657060200},{"movie":80,"code":"831","date":"7.7.","cinema":"Kongresov\u00fd s\u00e1l","id":228,"datetime":"2022 7.7. 8:30","timestamp":1657182600},{"movie":81,"code":"1D1","date":"30.6.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":229,"datetime":"2022 30.6. 10:00","timestamp":1656583200},{"movie":81,"code":"833","date":"7.7.","cinema":"Kongresov\u00fd s\u00e1l","id":230,"datetime":"2022 7.7. 10:30","timestamp":1657189800},{"movie":82,"code":"2C6","date":"1.7.","cinema":"Kino \u010cas","id":231,"datetime":"2022 1.7. 18:00","timestamp":1656698400},{"movie":82,"code":"3K3","date":"2.7.","cinema":"Kino Drahom\u00edra","id":232,"datetime":"2022 2.7. 12:00","timestamp":1656763200},{"movie":82,"code":"8H2","date":"7.7.","cinema":"Divadlo Husovka","id":233,"datetime":"2022 7.7. 13:30","timestamp":1657200600},{"movie":83,"code":"152","date":"30.6.","cinema":"Kinos\u00e1l B","id":234,"datetime":"2022 30.6. 11:30","timestamp":1656588600},{"movie":83,"code":"5K7","date":"4.7.","cinema":"Kino Drahom\u00edra","id":235,"datetime":"2022 4.7. 21:00","timestamp":1656968400},{"movie":84,"code":"524","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":236,"datetime":"2022 4.7. 15:00","timestamp":1656946800},{"movie":85,"code":"157","date":"30.6.","cinema":"Kinos\u00e1l B","id":237,"datetime":"2022 30.6. 22:30","timestamp":1656628200},{"movie":85,"code":"4L6","date":"3.7.","cinema":"L\u00e1zn\u011b III","id":238,"datetime":"2022 3.7. 22:00","timestamp":1656885600},{"movie":85,"code":"9C7","date":"8.7.","cinema":"Kino \u010cas","id":239,"datetime":"2022 8.7. 21:00","timestamp":1657314000},{"movie":86,"code":"252","date":"1.7.","cinema":"Kinos\u00e1l B","id":240,"datetime":"2022 1.7. 11:30","timestamp":1656675000},{"movie":86,"code":"6P4","date":"5.7.","cinema":"Kinos\u00e1l Pupp","id":241,"datetime":"2022 5.7. 16:00","timestamp":1657036800},{"movie":86,"code":"8D4","date":"7.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":242,"datetime":"2022 7.7. 19:00","timestamp":1657220400},{"movie":87,"code":"1P4","date":"30.6.","cinema":"Kinos\u00e1l Pupp","id":243,"datetime":"2022 30.6. 16:00","timestamp":1656604800},{"movie":87,"code":"2H5","date":"1.7.","cinema":"Divadlo Husovka","id":244,"datetime":"2022 1.7. 19:30","timestamp":1656703800},{"movie":87,"code":"7D5","date":"6.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":245,"datetime":"2022 6.7. 22:00","timestamp":1657144800},{"movie":88,"code":"2C7","date":"1.7.","cinema":"Kino \u010cas","id":246,"datetime":"2022 1.7. 21:00","timestamp":1656709200},{"movie":88,"code":"3H3","date":"2.7.","cinema":"Divadlo Husovka","id":247,"datetime":"2022 2.7. 16:30","timestamp":1656779400},{"movie":88,"code":"7H1","date":"6.7.","cinema":"Divadlo Husovka","id":248,"datetime":"2022 6.7. 10:30","timestamp":1657103400},{"movie":89,"code":"3H2","date":"2.7.","cinema":"Divadlo Husovka","id":249,"datetime":"2022 2.7. 13:30","timestamp":1656768600},{"movie":89,"code":"6D5","date":"5.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":250,"datetime":"2022 5.7. 22:00","timestamp":1657058400},{"movie":89,"code":"9L6","date":"8.7.","cinema":"L\u00e1zn\u011b III","id":251,"datetime":"2022 8.7. 22:00","timestamp":1657317600},{"movie":90,"code":"527","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":252,"datetime":"2022 4.7. 21:00","timestamp":1656968400},{"movie":90,"code":"6D1","date":"5.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":253,"datetime":"2022 5.7. 10:00","timestamp":1657015200},{"movie":91,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":254,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":91,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":255,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":91,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":256,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":92,"code":"4D4","date":"3.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":257,"datetime":"2022 3.7. 19:00","timestamp":1656874800},{"movie":92,"code":"5C5","date":"4.7.","cinema":"Kino \u010cas","id":258,"datetime":"2022 4.7. 15:00","timestamp":1656946800},{"movie":92,"code":"6L2","date":"5.7.","cinema":"L\u00e1zn\u011b III","id":259,"datetime":"2022 5.7. 13:00","timestamp":1657026000},{"movie":92,"code":"753","date":"6.7.","cinema":"Kinos\u00e1l B","id":260,"datetime":"2022 6.7. 14:00","timestamp":1657116000},{"movie":93,"code":"2P3","date":"1.7.","cinema":"Kinos\u00e1l Pupp","id":261,"datetime":"2022 1.7. 15:00","timestamp":1656687600},{"movie":93,"code":"322","date":"2.7.","cinema":"Mal\u00fd s\u00e1l","id":262,"datetime":"2022 2.7. 11:30","timestamp":1656761400},{"movie":93,"code":"757","date":"6.7.","cinema":"Kinos\u00e1l B","id":263,"datetime":"2022 6.7. 22:30","timestamp":1657146600},{"movie":94,"code":"1H5","date":"30.6.","cinema":"Divadlo Husovka","id":264,"datetime":"2022 30.6. 19:30","timestamp":1656617400},{"movie":94,"code":"357","date":"2.7.","cinema":"Kinos\u00e1l B","id":265,"datetime":"2022 2.7. 22:30","timestamp":1656801000},{"movie":94,"code":"737","date":"6.7.","cinema":"Kongresov\u00fd s\u00e1l","id":266,"datetime":"2022 6.7. 22:00","timestamp":1657144800},{"movie":95,"code":"1C1","date":"30.6.","cinema":"Kino \u010cas","id":267,"datetime":"2022 30.6. 9:00","timestamp":1656579600},{"movie":95,"code":"637","date":"5.7.","cinema":"Kongresov\u00fd s\u00e1l","id":268,"datetime":"2022 5.7. 22:00","timestamp":1657058400},{"movie":95,"code":"9H5","date":"8.7.","cinema":"Divadlo Husovka","id":269,"datetime":"2022 8.7. 19:30","timestamp":1657308600},{"movie":96,"code":"3K5","date":"2.7.","cinema":"Kino Drahom\u00edra","id":270,"datetime":"2022 2.7. 15:00","timestamp":1656774000},{"movie":96,"code":"454","date":"3.7.","cinema":"Kinos\u00e1l B","id":271,"datetime":"2022 3.7. 17:00","timestamp":1656867600},{"movie":97,"code":"1H3","date":"30.6.","cinema":"Divadlo Husovka","id":272,"datetime":"2022 30.6. 16:30","timestamp":1656606600},{"movie":97,"code":"452","date":"3.7.","cinema":"Kinos\u00e1l B","id":273,"datetime":"2022 3.7. 11:30","timestamp":1656847800},{"movie":97,"code":"9K1","date":"8.7.","cinema":"Kino Drahom\u00edra","id":274,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":98,"code":"133","date":"30.6.","cinema":"Kongresov\u00fd s\u00e1l","id":275,"datetime":"2022 30.6. 10:30","timestamp":1656585000},{"movie":98,"code":"7L6","date":"6.7.","cinema":"L\u00e1zn\u011b III","id":276,"datetime":"2022 6.7. 22:00","timestamp":1657144800},{"movie":99,"code":"424","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":277,"datetime":"2022 3.7. 15:00","timestamp":1656860400},{"movie":100,"code":"4K6","date":"3.7.","cinema":"Kino Drahom\u00edra","id":278,"datetime":"2022 3.7. 18:00","timestamp":1656871200},{"movie":100,"code":"5C6","date":"4.7.","cinema":"Kino \u010cas","id":279,"datetime":"2022 4.7. 18:00","timestamp":1656957600},{"movie":100,"code":"9H2","date":"8.7.","cinema":"Divadlo Husovka","id":280,"datetime":"2022 8.7. 13:30","timestamp":1657287000},{"movie":101,"code":"7P3","date":"6.7.","cinema":"Kinos\u00e1l Pupp","id":281,"datetime":"2022 6.7. 15:00","timestamp":1657119600},{"movie":101,"code":"8C2","date":"7.7.","cinema":"Kino \u010cas","id":282,"datetime":"2022 7.7. 11:30","timestamp":1657193400},{"movie":101,"code":"9L1","date":"8.7.","cinema":"L\u00e1zn\u011b III","id":283,"datetime":"2022 8.7. 10:00","timestamp":1657274400},{"movie":101,"code":"954","date":"8.7.","cinema":"Kinos\u00e1l B","id":284,"datetime":"2022 8.7. 17:00","timestamp":1657299600},{"movie":102,"code":"4K6","date":"3.7.","cinema":"Kino Drahom\u00edra","id":285,"datetime":"2022 3.7. 18:00","timestamp":1656871200},{"movie":102,"code":"5C6","date":"4.7.","cinema":"Kino \u010cas","id":286,"datetime":"2022 4.7. 18:00","timestamp":1656957600},{"movie":102,"code":"9H2","date":"8.7.","cinema":"Divadlo Husovka","id":287,"datetime":"2022 8.7. 13:30","timestamp":1657287000},{"movie":103,"code":"1K4","date":"30.6.","cinema":"Kino Drahom\u00edra","id":288,"datetime":"2022 30.6. 12:30","timestamp":1656592200},{"movie":103,"code":"321","date":"2.7.","cinema":"Mal\u00fd s\u00e1l","id":289,"datetime":"2022 2.7. 9:00","timestamp":1656752400},{"movie":103,"code":"9D1","date":"8.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":290,"datetime":"2022 8.7. 10:00","timestamp":1657274400},{"movie":104,"code":"3L1","date":"2.7.","cinema":"L\u00e1zn\u011b III","id":291,"datetime":"2022 2.7. 10:00","timestamp":1656756000},{"movie":104,"code":"8D3","date":"7.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":292,"datetime":"2022 7.7. 16:00","timestamp":1657209600},{"movie":105,"code":"1L4","date":"30.6.","cinema":"L\u00e1zn\u011b III","id":293,"datetime":"2022 30.6. 16:00","timestamp":1656604800},{"movie":105,"code":"5H5","date":"4.7.","cinema":"Divadlo Husovka","id":294,"datetime":"2022 4.7. 19:30","timestamp":1656963000},{"movie":105,"code":"9D3","date":"8.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":295,"datetime":"2022 8.7. 16:00","timestamp":1657296000},{"movie":106,"code":"237","date":"1.7.","cinema":"Kongresov\u00fd s\u00e1l","id":296,"datetime":"2022 1.7. 22:00","timestamp":1656712800},{"movie":106,"code":"4H7","date":"3.7.","cinema":"Divadlo Husovka","id":297,"datetime":"2022 3.7. 22:30","timestamp":1656887400},{"movie":106,"code":"6C8","date":"5.7.","cinema":"Kino \u010cas","id":298,"datetime":"2022 5.7. 22:00","timestamp":1657058400},{"movie":107,"code":"136","date":"30.6.","cinema":"Kongresov\u00fd s\u00e1l","id":299,"datetime":"2022 30.6. 19:00","timestamp":1656615600},{"movie":107,"code":"456","date":"3.7.","cinema":"Kinos\u00e1l B","id":300,"datetime":"2022 3.7. 20:00","timestamp":1656878400},{"movie":107,"code":"754","date":"6.7.","cinema":"Kinos\u00e1l B","id":301,"datetime":"2022 6.7. 17:00","timestamp":1657126800},{"movie":108,"code":"2C3","date":"1.7.","cinema":"Kino \u010cas","id":302,"datetime":"2022 1.7. 12:00","timestamp":1656676800},{"movie":108,"code":"3K6","date":"2.7.","cinema":"Kino Drahom\u00edra","id":303,"datetime":"2022 2.7. 18:00","timestamp":1656784800},{"movie":108,"code":"6H4","date":"5.7.","cinema":"Divadlo Husovka","id":304,"datetime":"2022 5.7. 18:00","timestamp":1657044000},{"movie":109,"code":"1P1","date":"30.6.","cinema":"Kinos\u00e1l Pupp","id":305,"datetime":"2022 30.6. 10:00","timestamp":1656583200},{"movie":109,"code":"257","date":"1.7.","cinema":"Kinos\u00e1l B","id":306,"datetime":"2022 1.7. 22:30","timestamp":1656714600},{"movie":109,"code":"437","date":"3.7.","cinema":"Kongresov\u00fd s\u00e1l","id":307,"datetime":"2022 3.7. 22:00","timestamp":1656885600},{"movie":110,"code":"3P5","date":"2.7.","cinema":"Kinos\u00e1l Pupp","id":308,"datetime":"2022 2.7. 19:00","timestamp":1656788400},{"movie":110,"code":"427","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":309,"datetime":"2022 3.7. 21:00","timestamp":1656882000},{"movie":110,"code":"5K5","date":"4.7.","cinema":"Kino Drahom\u00edra","id":310,"datetime":"2022 4.7. 15:00","timestamp":1656946800},{"movie":110,"code":"957","date":"8.7.","cinema":"Kinos\u00e1l B","id":311,"datetime":"2022 8.7. 22:30","timestamp":1657319400},{"movie":111,"code":"634","date":"5.7.","cinema":"Kongresov\u00fd s\u00e1l","id":312,"datetime":"2022 5.7. 13:00","timestamp":1657026000},{"movie":111,"code":"8K1","date":"7.7.","cinema":"Kino Drahom\u00edra","id":313,"datetime":"2022 7.7. 9:00","timestamp":1657184400},{"movie":112,"code":"316","date":"2.7.","cinema":"Velk\u00fd s\u00e1l","id":314,"datetime":"2022 2.7. 17:00","timestamp":1656781200},{"movie":112,"code":"4P1","date":"3.7.","cinema":"Kinos\u00e1l Pupp","id":315,"datetime":"2022 3.7. 10:00","timestamp":1656842400},{"movie":112,"code":"5L4","date":"4.7.","cinema":"L\u00e1zn\u011b III","id":316,"datetime":"2022 4.7. 16:00","timestamp":1656950400},{"movie":112,"code":"635","date":"5.7.","cinema":"Kongresov\u00fd s\u00e1l","id":317,"datetime":"2022 5.7. 16:00","timestamp":1657036800},{"movie":113,"code":"425","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":318,"datetime":"2022 3.7. 18:00","timestamp":1656871200},{"movie":114,"code":"2C6","date":"1.7.","cinema":"Kino \u010cas","id":319,"datetime":"2022 1.7. 18:00","timestamp":1656698400},{"movie":114,"code":"3K3","date":"2.7.","cinema":"Kino Drahom\u00edra","id":320,"datetime":"2022 2.7. 12:00","timestamp":1656763200},{"movie":114,"code":"8H2","date":"7.7.","cinema":"Divadlo Husovka","id":321,"datetime":"2022 7.7. 13:30","timestamp":1657200600},{"movie":115,"code":"2C6","date":"1.7.","cinema":"Kino \u010cas","id":322,"datetime":"2022 1.7. 18:00","timestamp":1656698400},{"movie":115,"code":"3K3","date":"2.7.","cinema":"Kino Drahom\u00edra","id":323,"datetime":"2022 2.7. 12:00","timestamp":1656763200},{"movie":115,"code":"8H2","date":"7.7.","cinema":"Divadlo Husovka","id":324,"datetime":"2022 7.7. 13:30","timestamp":1657200600},{"movie":116,"code":"1P6","date":"30.6.","cinema":"Kinos\u00e1l Pupp","id":325,"datetime":"2022 30.6. 22:00","timestamp":1656626400},{"movie":116,"code":"4K1","date":"3.7.","cinema":"Kino Drahom\u00edra","id":326,"datetime":"2022 3.7. 9:00","timestamp":1656838800},{"movie":116,"code":"857","date":"7.7.","cinema":"Kinos\u00e1l B","id":327,"datetime":"2022 7.7. 22:30","timestamp":1657233000},{"movie":117,"code":"627","date":"5.7.","cinema":"Mal\u00fd s\u00e1l","id":328,"datetime":"2022 5.7. 21:00","timestamp":1657054800},{"movie":117,"code":"7P5","date":"6.7.","cinema":"Kinos\u00e1l Pupp","id":329,"datetime":"2022 6.7. 19:00","timestamp":1657134000},{"movie":117,"code":"836","date":"7.7.","cinema":"Kongresov\u00fd s\u00e1l","id":330,"datetime":"2022 7.7. 19:00","timestamp":1657220400},{"movie":117,"code":"931","date":"8.7.","cinema":"Kongresov\u00fd s\u00e1l","id":331,"datetime":"2022 8.7. 8:30","timestamp":1657269000},{"movie":118,"code":"518","date":"4.7.","cinema":"Velk\u00fd s\u00e1l","id":332,"datetime":"2022 4.7. 20:00","timestamp":1656964800},{"movie":118,"code":"6P2","date":"5.7.","cinema":"Kinos\u00e1l Pupp","id":333,"datetime":"2022 5.7. 13:00","timestamp":1657026000},{"movie":118,"code":"7L5","date":"6.7.","cinema":"L\u00e1zn\u011b III","id":334,"datetime":"2022 6.7. 19:00","timestamp":1657134000},{"movie":118,"code":"835","date":"7.7.","cinema":"Kongresov\u00fd s\u00e1l","id":335,"datetime":"2022 7.7. 16:00","timestamp":1657209600},{"movie":119,"code":"3K5","date":"2.7.","cinema":"Kino Drahom\u00edra","id":336,"datetime":"2022 2.7. 15:00","timestamp":1656774000},{"movie":119,"code":"454","date":"3.7.","cinema":"Kinos\u00e1l B","id":337,"datetime":"2022 3.7. 17:00","timestamp":1656867600},{"movie":120,"code":"2L6","date":"1.7.","cinema":"L\u00e1zn\u011b III","id":338,"datetime":"2022 1.7. 22:00","timestamp":1656712800},{"movie":120,"code":"4H5","date":"3.7.","cinema":"Divadlo Husovka","id":339,"datetime":"2022 3.7. 19:30","timestamp":1656876600},{"movie":120,"code":"8D1","date":"7.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":340,"datetime":"2022 7.7. 10:00","timestamp":1657188000},{"movie":121,"code":"2C6","date":"1.7.","cinema":"Kino \u010cas","id":341,"datetime":"2022 1.7. 18:00","timestamp":1656698400},{"movie":121,"code":"3K3","date":"2.7.","cinema":"Kino Drahom\u00edra","id":342,"datetime":"2022 2.7. 12:00","timestamp":1656763200},{"movie":121,"code":"8H2","date":"7.7.","cinema":"Divadlo Husovka","id":343,"datetime":"2022 7.7. 13:30","timestamp":1657200600},{"movie":122,"code":"1L1","date":"30.6.","cinema":"L\u00e1zn\u011b III","id":344,"datetime":"2022 30.6. 10:00","timestamp":1656583200},{"movie":122,"code":"633","date":"5.7.","cinema":"Kongresov\u00fd s\u00e1l","id":345,"datetime":"2022 5.7. 10:30","timestamp":1657017000},{"movie":122,"code":"7H6","date":"6.7.","cinema":"Divadlo Husovka","id":346,"datetime":"2022 6.7. 20:00","timestamp":1657137600},{"movie":123,"code":"3P6","date":"2.7.","cinema":"Kinos\u00e1l Pupp","id":347,"datetime":"2022 2.7. 22:00","timestamp":1656799200},{"movie":123,"code":"616","date":"5.7.","cinema":"Velk\u00fd s\u00e1l","id":348,"datetime":"2022 5.7. 17:00","timestamp":1657040400},{"movie":123,"code":"822","date":"7.7.","cinema":"Mal\u00fd s\u00e1l","id":349,"datetime":"2022 7.7. 11:30","timestamp":1657193400},{"movie":124,"code":"2K5","date":"1.7.","cinema":"Kino Drahom\u00edra","id":350,"datetime":"2022 1.7. 15:00","timestamp":1656687600},{"movie":124,"code":"3L5","date":"2.7.","cinema":"L\u00e1zn\u011b III","id":351,"datetime":"2022 2.7. 19:00","timestamp":1656788400},{"movie":124,"code":"925","date":"8.7.","cinema":"Mal\u00fd s\u00e1l","id":352,"datetime":"2022 8.7. 18:00","timestamp":1657303200},{"movie":125,"code":"135","date":"30.6.","cinema":"Kongresov\u00fd s\u00e1l","id":353,"datetime":"2022 30.6. 16:00","timestamp":1656604800},{"movie":125,"code":"4D2","date":"3.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":354,"datetime":"2022 3.7. 13:00","timestamp":1656853200},{"movie":125,"code":"5K6","date":"4.7.","cinema":"Kino Drahom\u00edra","id":355,"datetime":"2022 4.7. 18:00","timestamp":1656957600},{"movie":126,"code":"524","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":356,"datetime":"2022 4.7. 15:00","timestamp":1656946800},{"movie":127,"code":"328","date":"2.7.","cinema":"Mal\u00fd s\u00e1l","id":357,"datetime":"2022 2.7. 23:59","timestamp":1656806340},{"movie":127,"code":"71A","date":"6.7.","cinema":"Velk\u00fd s\u00e1l","id":358,"datetime":"2022 6.7. 23:00","timestamp":1657148400},{"movie":127,"code":"9C9","date":"8.7.","cinema":"Kino \u010cas","id":359,"datetime":"2022 8.7. 23:59","timestamp":1657324740},{"movie":128,"code":"134","date":"30.6.","cinema":"Kongresov\u00fd s\u00e1l","id":360,"datetime":"2022 30.6. 13:00","timestamp":1656594000},{"movie":128,"code":"2P5","date":"1.7.","cinema":"Kinos\u00e1l Pupp","id":361,"datetime":"2022 1.7. 19:00","timestamp":1656702000},{"movie":128,"code":"5C1","date":"4.7.","cinema":"Kino \u010cas","id":362,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":129,"code":"3D5","date":"2.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":363,"datetime":"2022 2.7. 22:00","timestamp":1656799200},{"movie":129,"code":"5L6","date":"4.7.","cinema":"L\u00e1zn\u011b III","id":364,"datetime":"2022 4.7. 22:00","timestamp":1656972000},{"movie":129,"code":"7H7","date":"6.7.","cinema":"Divadlo Husovka","id":365,"datetime":"2022 6.7. 22:30","timestamp":1657146600},{"movie":130,"code":"315","date":"2.7.","cinema":"Velk\u00fd s\u00e1l","id":366,"datetime":"2022 2.7. 14:00","timestamp":1656770400},{"movie":130,"code":"4P4","date":"3.7.","cinema":"Kinos\u00e1l Pupp","id":367,"datetime":"2022 3.7. 16:00","timestamp":1656864000},{"movie":130,"code":"6D2","date":"5.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":368,"datetime":"2022 5.7. 13:00","timestamp":1657026000},{"movie":130,"code":"8C1","date":"7.7.","cinema":"Kino \u010cas","id":369,"datetime":"2022 7.7. 9:00","timestamp":1657184400},{"movie":131,"code":"5D2","date":"4.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":370,"datetime":"2022 4.7. 13:00","timestamp":1656939600},{"movie":131,"code":"7C1","date":"6.7.","cinema":"Kino \u010cas","id":371,"datetime":"2022 6.7. 9:00","timestamp":1657098000},{"movie":132,"code":"154","date":"30.6.","cinema":"Kinos\u00e1l B","id":372,"datetime":"2022 30.6. 17:00","timestamp":1656608400},{"movie":132,"code":"7D1","date":"6.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":373,"datetime":"2022 6.7. 10:00","timestamp":1657101600},{"movie":132,"code":"9C3","date":"8.7.","cinema":"Kino \u010cas","id":374,"datetime":"2022 8.7. 12:00","timestamp":1657281600},{"movie":133,"code":"2K3","date":"1.7.","cinema":"Kino Drahom\u00edra","id":375,"datetime":"2022 1.7. 12:00","timestamp":1656676800},{"movie":133,"code":"453","date":"3.7.","cinema":"Kinos\u00e1l B","id":376,"datetime":"2022 3.7. 14:00","timestamp":1656856800},{"movie":134,"code":"457","date":"3.7.","cinema":"Kinos\u00e1l B","id":377,"datetime":"2022 3.7. 22:30","timestamp":1656887400},{"movie":134,"code":"5H7","date":"4.7.","cinema":"Divadlo Husovka","id":378,"datetime":"2022 4.7. 22:30","timestamp":1656973800},{"movie":134,"code":"9K7","date":"8.7.","cinema":"Kino Drahom\u00edra","id":379,"datetime":"2022 8.7. 21:00","timestamp":1657314000},{"movie":135,"code":"31A","date":"2.7.","cinema":"Velk\u00fd s\u00e1l","id":380,"datetime":"2022 2.7. 23:00","timestamp":1656802800},{"movie":135,"code":"511","date":"4.7.","cinema":"Velk\u00fd s\u00e1l","id":381,"datetime":"2022 4.7. 8:30","timestamp":1656923400},{"movie":136,"code":"1C7","date":"30.6.","cinema":"Kino \u010cas","id":382,"datetime":"2022 30.6. 21:00","timestamp":1656622800},{"movie":136,"code":"4D5","date":"3.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":383,"datetime":"2022 3.7. 22:00","timestamp":1656885600},{"movie":136,"code":"7H4","date":"6.7.","cinema":"Divadlo Husovka","id":384,"datetime":"2022 6.7. 18:00","timestamp":1657130400},{"movie":137,"code":"618","date":"5.7.","cinema":"Velk\u00fd s\u00e1l","id":385,"datetime":"2022 5.7. 20:00","timestamp":1657051200},{"movie":137,"code":"7P1","date":"6.7.","cinema":"Kinos\u00e1l Pupp","id":386,"datetime":"2022 6.7. 10:00","timestamp":1657101600},{"movie":137,"code":"8L4","date":"7.7.","cinema":"L\u00e1zn\u011b III","id":387,"datetime":"2022 7.7. 16:00","timestamp":1657209600},{"movie":137,"code":"933","date":"8.7.","cinema":"Kongresov\u00fd s\u00e1l","id":388,"datetime":"2022 8.7. 10:30","timestamp":1657276200},{"movie":138,"code":"4K6","date":"3.7.","cinema":"Kino Drahom\u00edra","id":389,"datetime":"2022 3.7. 18:00","timestamp":1656871200},{"movie":138,"code":"5C6","date":"4.7.","cinema":"Kino \u010cas","id":390,"datetime":"2022 4.7. 18:00","timestamp":1656957600},{"movie":138,"code":"9H2","date":"8.7.","cinema":"Divadlo Husovka","id":391,"datetime":"2022 8.7. 13:30","timestamp":1657287000},{"movie":139,"code":"418","date":"3.7.","cinema":"Velk\u00fd s\u00e1l","id":392,"datetime":"2022 3.7. 20:00","timestamp":1656878400},{"movie":139,"code":"5P2","date":"4.7.","cinema":"Kinos\u00e1l Pupp","id":393,"datetime":"2022 4.7. 13:00","timestamp":1656939600},{"movie":139,"code":"6L5","date":"5.7.","cinema":"L\u00e1zn\u011b III","id":394,"datetime":"2022 5.7. 19:00","timestamp":1657047600},{"movie":139,"code":"735","date":"6.7.","cinema":"Kongresov\u00fd s\u00e1l","id":395,"datetime":"2022 6.7. 16:00","timestamp":1657123200},{"movie":140,"code":"2D5","date":"1.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":396,"datetime":"2022 1.7. 22:00","timestamp":1656712800},{"movie":140,"code":"7C7","date":"6.7.","cinema":"Kino \u010cas","id":397,"datetime":"2022 6.7. 21:00","timestamp":1657141200},{"movie":140,"code":"8K6","date":"7.7.","cinema":"Kino Drahom\u00edra","id":398,"datetime":"2022 7.7. 18:00","timestamp":1657216800},{"movie":141,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":399,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":141,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":400,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":141,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":401,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":142,"code":"6D4","date":"5.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":402,"datetime":"2022 5.7. 19:00","timestamp":1657047600},{"movie":142,"code":"7C5","date":"6.7.","cinema":"Kino \u010cas","id":403,"datetime":"2022 6.7. 15:00","timestamp":1657119600},{"movie":142,"code":"8L2","date":"7.7.","cinema":"L\u00e1zn\u011b III","id":404,"datetime":"2022 7.7. 13:00","timestamp":1657198800},{"movie":142,"code":"953","date":"8.7.","cinema":"Kinos\u00e1l B","id":405,"datetime":"2022 8.7. 14:00","timestamp":1657288800},{"movie":143,"code":"311","date":"2.7.","cinema":"Velk\u00fd s\u00e1l","id":406,"datetime":"2022 2.7. 8:30","timestamp":1656750600},{"movie":143,"code":"9C6","date":"8.7.","cinema":"Kino \u010cas","id":407,"datetime":"2022 8.7. 18:00","timestamp":1657303200},{"movie":144,"code":"1D2","date":"30.6.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":408,"datetime":"2022 30.6. 13:00","timestamp":1656594000},{"movie":144,"code":"352","date":"2.7.","cinema":"Kinos\u00e1l B","id":409,"datetime":"2022 2.7. 11:30","timestamp":1656761400},{"movie":144,"code":"421","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":410,"datetime":"2022 3.7. 9:00","timestamp":1656838800},{"movie":145,"code":"121","date":"30.6.","cinema":"Mal\u00fd s\u00e1l","id":411,"datetime":"2022 30.6. 9:00","timestamp":1656579600},{"movie":145,"code":"3H1","date":"2.7.","cinema":"Divadlo Husovka","id":412,"datetime":"2022 2.7. 10:30","timestamp":1656757800},{"movie":145,"code":"936","date":"8.7.","cinema":"Kongresov\u00fd s\u00e1l","id":413,"datetime":"2022 8.7. 19:00","timestamp":1657306800},{"movie":146,"code":"153","date":"30.6.","cinema":"Kinos\u00e1l B","id":414,"datetime":"2022 30.6. 14:00","timestamp":1656597600},{"movie":146,"code":"423","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":415,"datetime":"2022 3.7. 12:00","timestamp":1656849600},{"movie":146,"code":"8C8","date":"7.7.","cinema":"Kino \u010cas","id":416,"datetime":"2022 7.7. 22:00","timestamp":1657231200},{"movie":147,"code":"3H8","date":"2.7.","cinema":"Divadlo Husovka","id":417,"datetime":"2022 2.7. 23:00","timestamp":1656802800},{"movie":147,"code":"7H2","date":"6.7.","cinema":"Divadlo Husovka","id":418,"datetime":"2022 6.7. 13:30","timestamp":1657114200},{"movie":147,"code":"9K6","date":"8.7.","cinema":"Kino Drahom\u00edra","id":419,"datetime":"2022 8.7. 18:00","timestamp":1657303200},{"movie":148,"code":"1C6","date":"30.6.","cinema":"Kino \u010cas","id":420,"datetime":"2022 30.6. 18:00","timestamp":1656612000},{"movie":148,"code":"3K1","date":"2.7.","cinema":"Kino Drahom\u00edra","id":421,"datetime":"2022 2.7. 9:00","timestamp":1656752400},{"movie":148,"code":"6C1","date":"5.7.","cinema":"Kino \u010cas","id":422,"datetime":"2022 5.7. 9:00","timestamp":1657011600},{"movie":149,"code":"1L2","date":"30.6.","cinema":"L\u00e1zn\u011b III","id":423,"datetime":"2022 30.6. 13:00","timestamp":1656594000},{"movie":149,"code":"5D1","date":"4.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":424,"datetime":"2022 4.7. 10:00","timestamp":1656928800},{"movie":149,"code":"6K6","date":"5.7.","cinema":"Kino Drahom\u00edra","id":425,"datetime":"2022 5.7. 18:00","timestamp":1657044000},{"movie":150,"code":"235","date":"1.7.","cinema":"Kongresov\u00fd s\u00e1l","id":426,"datetime":"2022 1.7. 16:00","timestamp":1656691200},{"movie":150,"code":"724","date":"6.7.","cinema":"Mal\u00fd s\u00e1l","id":427,"datetime":"2022 6.7. 15:00","timestamp":1657119600},{"movie":150,"code":"8K7","date":"7.7.","cinema":"Kino Drahom\u00edra","id":428,"datetime":"2022 7.7. 21:00","timestamp":1657227600},{"movie":151,"code":"2P1","date":"1.7.","cinema":"Kinos\u00e1l Pupp","id":429,"datetime":"2022 1.7. 10:00","timestamp":1656669600},{"movie":151,"code":"818","date":"7.7.","cinema":"Velk\u00fd s\u00e1l","id":430,"datetime":"2022 7.7. 20:00","timestamp":1657224000},{"movie":152,"code":"1K6","date":"30.6.","cinema":"Kino Drahom\u00edra","id":431,"datetime":"2022 30.6. 18:00","timestamp":1656612000},{"movie":152,"code":"556","date":"4.7.","cinema":"Kinos\u00e1l B","id":432,"datetime":"2022 4.7. 20:00","timestamp":1656964800},{"movie":152,"code":"855","date":"7.7.","cinema":"Kinos\u00e1l B","id":433,"datetime":"2022 7.7. 19:00","timestamp":1657220400},{"movie":153,"code":"425","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":434,"datetime":"2022 3.7. 18:00","timestamp":1656871200},{"movie":154,"code":"5C7","date":"4.7.","cinema":"Kino \u010cas","id":435,"datetime":"2022 4.7. 21:00","timestamp":1656968400},{"movie":154,"code":"625","date":"5.7.","cinema":"Mal\u00fd s\u00e1l","id":436,"datetime":"2022 5.7. 18:00","timestamp":1657044000},{"movie":154,"code":"7K3","date":"6.7.","cinema":"Kino Drahom\u00edra","id":437,"datetime":"2022 6.7. 12:00","timestamp":1657108800},{"movie":154,"code":"851","date":"7.7.","cinema":"Kinos\u00e1l B","id":438,"datetime":"2022 7.7. 9:00","timestamp":1657184400},{"movie":155,"code":"2K3","date":"1.7.","cinema":"Kino Drahom\u00edra","id":439,"datetime":"2022 1.7. 12:00","timestamp":1656676800},{"movie":155,"code":"453","date":"3.7.","cinema":"Kinos\u00e1l B","id":440,"datetime":"2022 3.7. 14:00","timestamp":1656856800},{"movie":156,"code":"217","date":"1.7.","cinema":"Velk\u00fd s\u00e1l","id":441,"datetime":"2022 1.7. 19:30","timestamp":1656703800},{"movie":156,"code":"3P2","date":"2.7.","cinema":"Kinos\u00e1l Pupp","id":442,"datetime":"2022 2.7. 13:00","timestamp":1656766800},{"movie":156,"code":"4L5","date":"3.7.","cinema":"L\u00e1zn\u011b III","id":443,"datetime":"2022 3.7. 19:00","timestamp":1656874800},{"movie":156,"code":"537","date":"4.7.","cinema":"Kongresov\u00fd s\u00e1l","id":444,"datetime":"2022 4.7. 22:00","timestamp":1656972000},{"movie":157,"code":"1K1","date":"30.6.","cinema":"Kino Drahom\u00edra","id":445,"datetime":"2022 30.6. 9:00","timestamp":1656579600},{"movie":157,"code":"255","date":"1.7.","cinema":"Kinos\u00e1l B","id":446,"datetime":"2022 1.7. 19:00","timestamp":1656702000},{"movie":157,"code":"8C6","date":"7.7.","cinema":"Kino \u010cas","id":447,"datetime":"2022 7.7. 18:00","timestamp":1657216800},{"movie":158,"code":"1C9","date":"30.6.","cinema":"Kino \u010cas","id":448,"datetime":"2022 30.6. 23:59","timestamp":1656633540},{"movie":158,"code":"428","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":449,"datetime":"2022 3.7. 23:59","timestamp":1656892740},{"movie":158,"code":"5C9","date":"4.7.","cinema":"Kino \u010cas","id":450,"datetime":"2022 4.7. 23:59","timestamp":1656979140},{"movie":158,"code":"8C9","date":"7.7.","cinema":"Kino \u010cas","id":451,"datetime":"2022 7.7. 23:59","timestamp":1657238340},{"movie":159,"code":"2D4","date":"1.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":452,"datetime":"2022 1.7. 19:00","timestamp":1656702000},{"movie":159,"code":"3C5","date":"2.7.","cinema":"Kino \u010cas","id":453,"datetime":"2022 2.7. 15:00","timestamp":1656774000},{"movie":159,"code":"4L2","date":"3.7.","cinema":"L\u00e1zn\u011b III","id":454,"datetime":"2022 3.7. 13:00","timestamp":1656853200},{"movie":159,"code":"553","date":"4.7.","cinema":"Kinos\u00e1l B","id":455,"datetime":"2022 4.7. 14:00","timestamp":1656943200},{"movie":160,"code":"1C3","date":"30.6.","cinema":"Kino \u010cas","id":456,"datetime":"2022 30.6. 12:00","timestamp":1656590400},{"movie":160,"code":"413","date":"3.7.","cinema":"Velk\u00fd s\u00e1l","id":457,"datetime":"2022 3.7. 11:00","timestamp":1656846000},{"movie":160,"code":"5P5","date":"4.7.","cinema":"Kinos\u00e1l Pupp","id":458,"datetime":"2022 4.7. 19:00","timestamp":1656961200},{"movie":161,"code":"2D1","date":"1.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":459,"datetime":"2022 1.7. 10:00","timestamp":1656669600},{"movie":161,"code":"554","date":"4.7.","cinema":"Kinos\u00e1l B","id":460,"datetime":"2022 4.7. 17:00","timestamp":1656954000},{"movie":161,"code":"921","date":"8.7.","cinema":"Mal\u00fd s\u00e1l","id":461,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":162,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":462,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":162,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":463,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":162,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":464,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":163,"code":"3K5","date":"2.7.","cinema":"Kino Drahom\u00edra","id":465,"datetime":"2022 2.7. 15:00","timestamp":1656774000},{"movie":163,"code":"454","date":"3.7.","cinema":"Kinos\u00e1l B","id":466,"datetime":"2022 3.7. 17:00","timestamp":1656867600},{"movie":164,"code":"718","date":"6.7.","cinema":"Velk\u00fd s\u00e1l","id":467,"datetime":"2022 6.7. 20:00","timestamp":1657137600},{"movie":164,"code":"8P2","date":"7.7.","cinema":"Kinos\u00e1l Pupp","id":468,"datetime":"2022 7.7. 13:00","timestamp":1657198800},{"movie":164,"code":"935","date":"8.7.","cinema":"Kongresov\u00fd s\u00e1l","id":469,"datetime":"2022 8.7. 16:00","timestamp":1657296000},{"movie":164,"code":"9L5","date":"8.7.","cinema":"L\u00e1zn\u011b III","id":470,"datetime":"2022 8.7. 19:00","timestamp":1657306800},{"movie":165,"code":"528","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":471,"datetime":"2022 4.7. 23:59","timestamp":1656979140},{"movie":165,"code":"828","date":"7.7.","cinema":"Mal\u00fd s\u00e1l","id":472,"datetime":"2022 7.7. 23:59","timestamp":1657238340},{"movie":166,"code":"2K6","date":"1.7.","cinema":"Kino Drahom\u00edra","id":473,"datetime":"2022 1.7. 18:00","timestamp":1656698400},{"movie":166,"code":"656","date":"5.7.","cinema":"Kinos\u00e1l B","id":474,"datetime":"2022 5.7. 20:00","timestamp":1657051200},{"movie":166,"code":"8D5","date":"7.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":475,"datetime":"2022 7.7. 22:00","timestamp":1657231200},{"movie":167,"code":"324","date":"2.7.","cinema":"Mal\u00fd s\u00e1l","id":476,"datetime":"2022 2.7. 15:00","timestamp":1656774000},{"movie":167,"code":"4C6","date":"3.7.","cinema":"Kino \u010cas","id":477,"datetime":"2022 3.7. 18:00","timestamp":1656871200},{"movie":167,"code":"654","date":"5.7.","cinema":"Kinos\u00e1l B","id":478,"datetime":"2022 5.7. 17:00","timestamp":1657040400},{"movie":167,"code":"8K3","date":"7.7.","cinema":"Kino Drahom\u00edra","id":479,"datetime":"2022 7.7. 12:00","timestamp":1657195200},{"movie":168,"code":"3C1","date":"2.7.","cinema":"Kino \u010cas","id":480,"datetime":"2022 2.7. 9:00","timestamp":1656752400},{"movie":168,"code":"727","date":"6.7.","cinema":"Mal\u00fd s\u00e1l","id":481,"datetime":"2022 6.7. 21:00","timestamp":1657141200},{"movie":168,"code":"8K5","date":"7.7.","cinema":"Kino Drahom\u00edra","id":482,"datetime":"2022 7.7. 15:00","timestamp":1657206000},{"movie":169,"code":"3K5","date":"2.7.","cinema":"Kino Drahom\u00edra","id":483,"datetime":"2022 2.7. 15:00","timestamp":1656774000},{"movie":169,"code":"454","date":"3.7.","cinema":"Kinos\u00e1l B","id":484,"datetime":"2022 3.7. 17:00","timestamp":1656867600},{"movie":170,"code":"2C7","date":"1.7.","cinema":"Kino \u010cas","id":485,"datetime":"2022 1.7. 21:00","timestamp":1656709200},{"movie":170,"code":"3H3","date":"2.7.","cinema":"Divadlo Husovka","id":486,"datetime":"2022 2.7. 16:30","timestamp":1656779400},{"movie":170,"code":"7H1","date":"6.7.","cinema":"Divadlo Husovka","id":487,"datetime":"2022 6.7. 10:30","timestamp":1657103400},{"movie":171,"code":"2L5","date":"1.7.","cinema":"L\u00e1zn\u011b III","id":488,"datetime":"2022 1.7. 19:00","timestamp":1656702000},{"movie":171,"code":"436","date":"3.7.","cinema":"Kongresov\u00fd s\u00e1l","id":489,"datetime":"2022 3.7. 19:00","timestamp":1656874800},{"movie":171,"code":"6H1","date":"5.7.","cinema":"Divadlo Husovka","id":490,"datetime":"2022 5.7. 10:30","timestamp":1657017000},{"movie":172,"code":"4D3","date":"3.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":491,"datetime":"2022 3.7. 16:00","timestamp":1656864000},{"movie":172,"code":"5C3","date":"4.7.","cinema":"Kino \u010cas","id":492,"datetime":"2022 4.7. 12:00","timestamp":1656936000},{"movie":172,"code":"6L1","date":"5.7.","cinema":"L\u00e1zn\u011b III","id":493,"datetime":"2022 5.7. 10:00","timestamp":1657015200},{"movie":172,"code":"752","date":"6.7.","cinema":"Kinos\u00e1l B","id":494,"datetime":"2022 6.7. 11:30","timestamp":1657107000},{"movie":173,"code":"1K5","date":"30.6.","cinema":"Kino Drahom\u00edra","id":495,"datetime":"2022 30.6. 15:00","timestamp":1656601200},{"movie":173,"code":"7P2","date":"6.7.","cinema":"Kinos\u00e1l Pupp","id":496,"datetime":"2022 6.7. 13:00","timestamp":1657112400},{"movie":174,"code":"525","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":497,"datetime":"2022 4.7. 18:00","timestamp":1656957600},{"movie":175,"code":"524","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":498,"datetime":"2022 4.7. 15:00","timestamp":1656946800},{"movie":176,"code":"525","date":"4.7.","cinema":"Mal\u00fd s\u00e1l","id":499,"datetime":"2022 4.7. 18:00","timestamp":1656957600},{"movie":177,"code":"3L4","date":"2.7.","cinema":"L\u00e1zn\u011b III","id":500,"datetime":"2022 2.7. 16:00","timestamp":1656777600},{"movie":177,"code":"611","date":"5.7.","cinema":"Velk\u00fd s\u00e1l","id":501,"datetime":"2022 5.7. 8:30","timestamp":1657009800},{"movie":178,"code":"2D3","date":"1.7.","cinema":"Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo","id":502,"datetime":"2022 1.7. 16:00","timestamp":1656691200},{"movie":178,"code":"3C3","date":"2.7.","cinema":"Kino \u010cas","id":503,"datetime":"2022 2.7. 12:00","timestamp":1656763200},{"movie":178,"code":"4L1","date":"3.7.","cinema":"L\u00e1zn\u011b III","id":504,"datetime":"2022 3.7. 10:00","timestamp":1656842400},{"movie":178,"code":"552","date":"4.7.","cinema":"Kinos\u00e1l B","id":505,"datetime":"2022 4.7. 11:30","timestamp":1656934200},{"movie":179,"code":"251","date":"1.7.","cinema":"Kinos\u00e1l B","id":506,"datetime":"2022 1.7. 9:00","timestamp":1656666000},{"movie":179,"code":"551","date":"4.7.","cinema":"Kinos\u00e1l B","id":507,"datetime":"2022 4.7. 9:00","timestamp":1656925200},{"movie":179,"code":"9C1","date":"8.7.","cinema":"Kino \u010cas","id":508,"datetime":"2022 8.7. 9:00","timestamp":1657270800},{"movie":180,"code":"227","date":"1.7.","cinema":"Mal\u00fd s\u00e1l","id":509,"datetime":"2022 1.7. 21:00","timestamp":1656709200},{"movie":180,"code":"335","date":"2.7.","cinema":"Kongresov\u00fd s\u00e1l","id":510,"datetime":"2022 2.7. 16:00","timestamp":1656777600},{"movie":180,"code":"8H1","date":"7.7.","cinema":"Divadlo Husovka","id":511,"datetime":"2022 7.7. 10:30","timestamp":1657189800},{"movie":181,"code":"451","date":"3.7.","cinema":"Kinos\u00e1l B","id":512,"datetime":"2022 3.7. 9:00","timestamp":1656838800},{"movie":181,"code":"6K4","date":"5.7.","cinema":"Kino Drahom\u00edra","id":513,"datetime":"2022 5.7. 12:30","timestamp":1657024200},{"movie":181,"code":"7C6","date":"6.7.","cinema":"Kino \u010cas","id":514,"datetime":"2022 6.7. 18:00","timestamp":1657130400},{"movie":182,"code":"424","date":"3.7.","cinema":"Mal\u00fd s\u00e1l","id":515,"datetime":"2022 3.7. 15:00","timestamp":1656860400}]
+[
+  {
+    "movie": 0,
+    "code": "1H1",
+    "date": "30.6.",
+    "cinema": "Divadlo Husovka",
+    "id": 0,
+    "datetime": "2023 30.6. 10:30",
+    "timestamp": 1656585000
+  },
+  {
+    "movie": 0,
+    "code": "2H2",
+    "date": "1.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 1,
+    "datetime": "2023 1.7. 13:30",
+    "timestamp": 1656682200
+  },
+  {
+    "movie": 0,
+    "code": "7H3",
+    "date": "6.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 2,
+    "datetime": "2023 6.7. 16:30",
+    "timestamp": 1657125000
+  },
+  {
+    "movie": 1,
+    "code": "614",
+    "date": "5.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 3,
+    "datetime": "2023 5.7. 13:30",
+    "timestamp": 1657027800
+  },
+  {
+    "movie": 1,
+    "code": "812",
+    "date": "7.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 4,
+    "datetime": "2023 7.7. 10:00",
+    "timestamp": 1657188000
+  },
+  {
+    "movie": 2,
+    "code": "1L5",
+    "date": "30.6.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 5,
+    "datetime": "2023 30.6. 19:00",
+    "timestamp": 1656615600
+  },
+  {
+    "movie": 2,
+    "code": "513",
+    "date": "4.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 6,
+    "datetime": "2023 4.7. 11:00",
+    "timestamp": 1656932400
+  },
+  {
+    "movie": 2,
+    "code": "6P5",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 7,
+    "datetime": "2023 5.7. 19:00",
+    "timestamp": 1657047600
+  },
+  {
+    "movie": 3,
+    "code": "3D3",
+    "date": "2.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 8,
+    "datetime": "2023 2.7. 16:00",
+    "timestamp": 1656777600
+  },
+  {
+    "movie": 3,
+    "code": "4C4",
+    "date": "3.7.",
+    "cinema": "Kino \u010cas",
+    "id": 9,
+    "datetime": "2023 3.7. 12:30",
+    "timestamp": 1656851400
+  },
+  {
+    "movie": 3,
+    "code": "5L1",
+    "date": "4.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 10,
+    "datetime": "2023 4.7. 10:00",
+    "timestamp": 1656928800
+  },
+  {
+    "movie": 3,
+    "code": "652",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 11,
+    "datetime": "2023 5.7. 11:30",
+    "timestamp": 1657020600
+  },
+  {
+    "movie": 4,
+    "code": "7D4",
+    "date": "6.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 12,
+    "datetime": "2023 6.7. 19:00",
+    "timestamp": 1657134000
+  },
+  {
+    "movie": 4,
+    "code": "8C5",
+    "date": "7.7.",
+    "cinema": "Kino \u010cas",
+    "id": 13,
+    "datetime": "2023 7.7. 15:00",
+    "timestamp": 1657206000
+  },
+  {
+    "movie": 4,
+    "code": "9L2",
+    "date": "8.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 14,
+    "datetime": "2023 8.7. 13:00",
+    "timestamp": 1657285200
+  },
+  {
+    "movie": 4,
+    "code": "956",
+    "date": "8.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 15,
+    "datetime": "2023 8.7. 20:00",
+    "timestamp": 1657310400
+  },
+  {
+    "movie": 5,
+    "code": "1L6",
+    "date": "30.6.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 16,
+    "datetime": "2023 30.6. 22:00",
+    "timestamp": 1656626400
+  },
+  {
+    "movie": 5,
+    "code": "2H7",
+    "date": "1.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 17,
+    "datetime": "2023 1.7. 22:30",
+    "timestamp": 1656714600
+  },
+  {
+    "movie": 5,
+    "code": "657",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 18,
+    "datetime": "2023 5.7. 22:30",
+    "timestamp": 1657060200
+  },
+  {
+    "movie": 6,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 19,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 6,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 20,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 6,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 21,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 7,
+    "code": "354",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 22,
+    "datetime": "2023 2.7. 17:00",
+    "timestamp": 1656781200
+  },
+  {
+    "movie": 7,
+    "code": "7K7",
+    "date": "6.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 23,
+    "datetime": "2023 6.7. 21:00",
+    "timestamp": 1657141200
+  },
+  {
+    "movie": 7,
+    "code": "8H3",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 24,
+    "datetime": "2023 7.7. 16:30",
+    "timestamp": 1657211400
+  },
+  {
+    "movie": 8,
+    "code": "236",
+    "date": "1.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 25,
+    "datetime": "2023 1.7. 19:00",
+    "timestamp": 1656702000
+  },
+  {
+    "movie": 8,
+    "code": "327",
+    "date": "2.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 26,
+    "datetime": "2023 2.7. 21:00",
+    "timestamp": 1656795600
+  },
+  {
+    "movie": 9,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 27,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 9,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 28,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 9,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 29,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 10,
+    "code": "416",
+    "date": "3.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 30,
+    "datetime": "2023 3.7. 17:00",
+    "timestamp": 1656867600
+  },
+  {
+    "movie": 10,
+    "code": "5P1",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 31,
+    "datetime": "2023 4.7. 10:00",
+    "timestamp": 1656928800
+  },
+  {
+    "movie": 10,
+    "code": "6L4",
+    "date": "5.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 32,
+    "datetime": "2023 5.7. 16:00",
+    "timestamp": 1657036800
+  },
+  {
+    "movie": 10,
+    "code": "734",
+    "date": "6.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 33,
+    "datetime": "2023 6.7. 13:00",
+    "timestamp": 1657112400
+  },
+  {
+    "movie": 11,
+    "code": "419",
+    "date": "3.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 34,
+    "datetime": "2023 3.7. 22:30",
+    "timestamp": 1656887400
+  },
+  {
+    "movie": 11,
+    "code": "5P4",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 35,
+    "datetime": "2023 4.7. 16:00",
+    "timestamp": 1656950400
+  },
+  {
+    "movie": 11,
+    "code": "623",
+    "date": "5.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 36,
+    "datetime": "2023 5.7. 12:00",
+    "timestamp": 1657022400
+  },
+  {
+    "movie": 11,
+    "code": "8L6",
+    "date": "7.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 37,
+    "datetime": "2023 7.7. 22:00",
+    "timestamp": 1657231200
+  },
+  {
+    "movie": 12,
+    "code": "2H3",
+    "date": "1.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 38,
+    "datetime": "2023 1.7. 16:30",
+    "timestamp": 1656693000
+  },
+  {
+    "movie": 12,
+    "code": "6H2",
+    "date": "5.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 39,
+    "datetime": "2023 5.7. 13:30",
+    "timestamp": 1657027800
+  },
+  {
+    "movie": 12,
+    "code": "8L5",
+    "date": "7.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 40,
+    "datetime": "2023 7.7. 19:00",
+    "timestamp": 1657220400
+  },
+  {
+    "movie": 13,
+    "code": "5D4",
+    "date": "4.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 41,
+    "datetime": "2023 4.7. 19:00",
+    "timestamp": 1656961200
+  },
+  {
+    "movie": 13,
+    "code": "6C5",
+    "date": "5.7.",
+    "cinema": "Kino \u010cas",
+    "id": 42,
+    "datetime": "2023 5.7. 15:00",
+    "timestamp": 1657033200
+  },
+  {
+    "movie": 13,
+    "code": "7L2",
+    "date": "6.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 43,
+    "datetime": "2023 6.7. 13:00",
+    "timestamp": 1657112400
+  },
+  {
+    "movie": 13,
+    "code": "853",
+    "date": "7.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 44,
+    "datetime": "2023 7.7. 14:00",
+    "timestamp": 1657202400
+  },
+  {
+    "movie": 14,
+    "code": "2H1",
+    "date": "1.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 45,
+    "datetime": "2023 1.7. 10:30",
+    "timestamp": 1656671400
+  },
+  {
+    "movie": 14,
+    "code": "4H2",
+    "date": "3.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 46,
+    "datetime": "2023 3.7. 13:30",
+    "timestamp": 1656855000
+  },
+  {
+    "movie": 14,
+    "code": "6H3",
+    "date": "5.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 47,
+    "datetime": "2023 5.7. 16:30",
+    "timestamp": 1657038600
+  },
+  {
+    "movie": 15,
+    "code": "211",
+    "date": "1.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 48,
+    "datetime": "2023 1.7. 8:30",
+    "timestamp": 1656664200
+  },
+  {
+    "movie": 15,
+    "code": "6P6",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 49,
+    "datetime": "2023 5.7. 22:00",
+    "timestamp": 1657058400
+  },
+  {
+    "movie": 16,
+    "code": "2C9",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 50,
+    "datetime": "2023 1.7. 23:59",
+    "timestamp": 1656719940
+  },
+  {
+    "movie": 16,
+    "code": "728",
+    "date": "6.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 51,
+    "datetime": "2023 6.7. 23:59",
+    "timestamp": 1657151940
+  },
+  {
+    "movie": 17,
+    "code": "4K5",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 52,
+    "datetime": "2023 3.7. 15:00",
+    "timestamp": 1656860400
+  },
+  {
+    "movie": 17,
+    "code": "5H3",
+    "date": "4.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 53,
+    "datetime": "2023 4.7. 16:30",
+    "timestamp": 1656952200
+  },
+  {
+    "movie": 17,
+    "code": "9H1",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 54,
+    "datetime": "2023 8.7. 10:30",
+    "timestamp": 1657276200
+  },
+  {
+    "movie": 18,
+    "code": "725",
+    "date": "6.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 55,
+    "datetime": "2023 6.7. 18:00",
+    "timestamp": 1657130400
+  },
+  {
+    "movie": 18,
+    "code": "924",
+    "date": "8.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 56,
+    "datetime": "2023 8.7. 15:00",
+    "timestamp": 1657292400
+  },
+  {
+    "movie": 19,
+    "code": "318",
+    "date": "2.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 57,
+    "datetime": "2023 2.7. 20:00",
+    "timestamp": 1656792000
+  },
+  {
+    "movie": 19,
+    "code": "4P2",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 58,
+    "datetime": "2023 3.7. 13:00",
+    "timestamp": 1656853200
+  },
+  {
+    "movie": 19,
+    "code": "5L5",
+    "date": "4.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 59,
+    "datetime": "2023 4.7. 19:00",
+    "timestamp": 1656961200
+  },
+  {
+    "movie": 19,
+    "code": "636",
+    "date": "5.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 60,
+    "datetime": "2023 5.7. 19:00",
+    "timestamp": 1657047600
+  },
+  {
+    "movie": 20,
+    "code": "337",
+    "date": "2.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 61,
+    "datetime": "2023 2.7. 22:00",
+    "timestamp": 1656799200
+  },
+  {
+    "movie": 20,
+    "code": "521",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 62,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 21,
+    "code": "336",
+    "date": "2.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 63,
+    "datetime": "2023 2.7. 19:00",
+    "timestamp": 1656788400
+  },
+  {
+    "movie": 21,
+    "code": "515",
+    "date": "4.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 64,
+    "datetime": "2023 4.7. 14:00",
+    "timestamp": 1656943200
+  },
+  {
+    "movie": 22,
+    "code": "225",
+    "date": "1.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 65,
+    "datetime": "2023 1.7. 18:00",
+    "timestamp": 1656698400
+  },
+  {
+    "movie": 22,
+    "code": "3C7",
+    "date": "2.7.",
+    "cinema": "Kino \u010cas",
+    "id": 66,
+    "datetime": "2023 2.7. 21:00",
+    "timestamp": 1656795600
+  },
+  {
+    "movie": 22,
+    "code": "651",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 67,
+    "datetime": "2023 5.7. 9:00",
+    "timestamp": 1657011600
+  },
+  {
+    "movie": 22,
+    "code": "9K3",
+    "date": "8.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 68,
+    "datetime": "2023 8.7. 12:00",
+    "timestamp": 1657281600
+  },
+  {
+    "movie": 23,
+    "code": "2L4",
+    "date": "1.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 69,
+    "datetime": "2023 1.7. 16:00",
+    "timestamp": 1656691200
+  },
+  {
+    "movie": 23,
+    "code": "5K1",
+    "date": "4.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 70,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 23,
+    "code": "8D2",
+    "date": "7.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 71,
+    "datetime": "2023 7.7. 13:00",
+    "timestamp": 1657198800
+  },
+  {
+    "movie": 24,
+    "code": "736",
+    "date": "6.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 72,
+    "datetime": "2023 6.7. 19:00",
+    "timestamp": 1657134000
+  },
+  {
+    "movie": 24,
+    "code": "9K5",
+    "date": "8.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 73,
+    "datetime": "2023 8.7. 15:00",
+    "timestamp": 1657292400
+  },
+  {
+    "movie": 25,
+    "code": "3L6",
+    "date": "2.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 74,
+    "datetime": "2023 2.7. 22:00",
+    "timestamp": 1656799200
+  },
+  {
+    "movie": 25,
+    "code": "821",
+    "date": "7.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 75,
+    "datetime": "2023 7.7. 9:00",
+    "timestamp": 1657184400
+  },
+  {
+    "movie": 26,
+    "code": "2C6",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 76,
+    "datetime": "2023 1.7. 18:00",
+    "timestamp": 1656698400
+  },
+  {
+    "movie": 26,
+    "code": "3K3",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 77,
+    "datetime": "2023 2.7. 12:00",
+    "timestamp": 1656763200
+  },
+  {
+    "movie": 26,
+    "code": "8H2",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 78,
+    "datetime": "2023 7.7. 13:30",
+    "timestamp": 1657200600
+  },
+  {
+    "movie": 27,
+    "code": "253",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 79,
+    "datetime": "2023 1.7. 14:00",
+    "timestamp": 1656684000
+  },
+  {
+    "movie": 27,
+    "code": "6C6",
+    "date": "5.7.",
+    "cinema": "Kino \u010cas",
+    "id": 80,
+    "datetime": "2023 5.7. 18:00",
+    "timestamp": 1657044000
+  },
+  {
+    "movie": 27,
+    "code": "8P5",
+    "date": "7.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 81,
+    "datetime": "2023 7.7. 19:00",
+    "timestamp": 1657220400
+  },
+  {
+    "movie": 28,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 82,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 28,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 83,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 28,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 84,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 29,
+    "code": "411",
+    "date": "3.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 85,
+    "datetime": "2023 3.7. 8:30",
+    "timestamp": 1656837000
+  },
+  {
+    "movie": 29,
+    "code": "9D4",
+    "date": "8.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 86,
+    "datetime": "2023 8.7. 19:00",
+    "timestamp": 1657306800
+  },
+  {
+    "movie": 30,
+    "code": "1P5",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 87,
+    "datetime": "2023 30.6. 19:00",
+    "timestamp": 1656615600
+  },
+  {
+    "movie": 30,
+    "code": "5D5",
+    "date": "4.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 88,
+    "datetime": "2023 4.7. 22:00",
+    "timestamp": 1656972000
+  },
+  {
+    "movie": 30,
+    "code": "721",
+    "date": "6.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 89,
+    "datetime": "2023 6.7. 9:00",
+    "timestamp": 1657098000
+  },
+  {
+    "movie": 31,
+    "code": "7D2",
+    "date": "6.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 90,
+    "datetime": "2023 6.7. 13:00",
+    "timestamp": 1657112400
+  },
+  {
+    "movie": 31,
+    "code": "9H7",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 91,
+    "datetime": "2023 8.7. 22:30",
+    "timestamp": 1657319400
+  },
+  {
+    "movie": 32,
+    "code": "219",
+    "date": "1.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 92,
+    "datetime": "2023 1.7. 22:30",
+    "timestamp": 1656714600
+  },
+  {
+    "movie": 33,
+    "code": "224",
+    "date": "1.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 93,
+    "datetime": "2023 1.7. 15:00",
+    "timestamp": 1656687600
+  },
+  {
+    "movie": 33,
+    "code": "3C6",
+    "date": "2.7.",
+    "cinema": "Kino \u010cas",
+    "id": 94,
+    "datetime": "2023 2.7. 18:00",
+    "timestamp": 1656784800
+  },
+  {
+    "movie": 33,
+    "code": "6L6",
+    "date": "5.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 95,
+    "datetime": "2023 5.7. 22:00",
+    "timestamp": 1657058400
+  },
+  {
+    "movie": 34,
+    "code": "4K6",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 96,
+    "datetime": "2023 3.7. 18:00",
+    "timestamp": 1656871200
+  },
+  {
+    "movie": 34,
+    "code": "5C6",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 97,
+    "datetime": "2023 4.7. 18:00",
+    "timestamp": 1656957600
+  },
+  {
+    "movie": 34,
+    "code": "9H2",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 98,
+    "datetime": "2023 8.7. 13:30",
+    "timestamp": 1657287000
+  },
+  {
+    "movie": 35,
+    "code": "2C6",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 99,
+    "datetime": "2023 1.7. 18:00",
+    "timestamp": 1656698400
+  },
+  {
+    "movie": 35,
+    "code": "3K3",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 100,
+    "datetime": "2023 2.7. 12:00",
+    "timestamp": 1656763200
+  },
+  {
+    "movie": 35,
+    "code": "8H2",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 101,
+    "datetime": "2023 7.7. 13:30",
+    "timestamp": 1657200600
+  },
+  {
+    "movie": 36,
+    "code": "2K3",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 102,
+    "datetime": "2023 1.7. 12:00",
+    "timestamp": 1656676800
+  },
+  {
+    "movie": 36,
+    "code": "453",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 103,
+    "datetime": "2023 3.7. 14:00",
+    "timestamp": 1656856800
+  },
+  {
+    "movie": 37,
+    "code": "2K3",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 104,
+    "datetime": "2023 1.7. 12:00",
+    "timestamp": 1656676800
+  },
+  {
+    "movie": 37,
+    "code": "453",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 105,
+    "datetime": "2023 3.7. 14:00",
+    "timestamp": 1656856800
+  },
+  {
+    "movie": 38,
+    "code": "716",
+    "date": "6.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 106,
+    "datetime": "2023 6.7. 17:00",
+    "timestamp": 1657126800
+  },
+  {
+    "movie": 38,
+    "code": "8P1",
+    "date": "7.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 107,
+    "datetime": "2023 7.7. 10:00",
+    "timestamp": 1657188000
+  },
+  {
+    "movie": 38,
+    "code": "934",
+    "date": "8.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 108,
+    "datetime": "2023 8.7. 13:00",
+    "timestamp": 1657285200
+  },
+  {
+    "movie": 38,
+    "code": "9L4",
+    "date": "8.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 109,
+    "datetime": "2023 8.7. 16:00",
+    "timestamp": 1657296000
+  },
+  {
+    "movie": 39,
+    "code": "5D3",
+    "date": "4.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 110,
+    "datetime": "2023 4.7. 16:00",
+    "timestamp": 1656950400
+  },
+  {
+    "movie": 39,
+    "code": "6C3",
+    "date": "5.7.",
+    "cinema": "Kino \u010cas",
+    "id": 111,
+    "datetime": "2023 5.7. 12:00",
+    "timestamp": 1657022400
+  },
+  {
+    "movie": 39,
+    "code": "7L1",
+    "date": "6.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 112,
+    "datetime": "2023 6.7. 10:00",
+    "timestamp": 1657101600
+  },
+  {
+    "movie": 39,
+    "code": "852",
+    "date": "7.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 113,
+    "datetime": "2023 7.7. 11:30",
+    "timestamp": 1657193400
+  },
+  {
+    "movie": 40,
+    "code": "153",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 114,
+    "datetime": "2023 30.6. 14:00",
+    "timestamp": 1656597600
+  },
+  {
+    "movie": 40,
+    "code": "423",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 115,
+    "datetime": "2023 3.7. 12:00",
+    "timestamp": 1656849600
+  },
+  {
+    "movie": 40,
+    "code": "8C8",
+    "date": "7.7.",
+    "cinema": "Kino \u010cas",
+    "id": 116,
+    "datetime": "2023 7.7. 22:00",
+    "timestamp": 1657231200
+  },
+  {
+    "movie": 41,
+    "code": "6D3",
+    "date": "5.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 117,
+    "datetime": "2023 5.7. 16:00",
+    "timestamp": 1657036800
+  },
+  {
+    "movie": 41,
+    "code": "7C3",
+    "date": "6.7.",
+    "cinema": "Kino \u010cas",
+    "id": 118,
+    "datetime": "2023 6.7. 12:00",
+    "timestamp": 1657108800
+  },
+  {
+    "movie": 41,
+    "code": "8L1",
+    "date": "7.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 119,
+    "datetime": "2023 7.7. 10:00",
+    "timestamp": 1657188000
+  },
+  {
+    "movie": 41,
+    "code": "952",
+    "date": "8.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 120,
+    "datetime": "2023 8.7. 11:30",
+    "timestamp": 1657279800
+  },
+  {
+    "movie": 42,
+    "code": "415",
+    "date": "3.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 121,
+    "datetime": "2023 3.7. 14:00",
+    "timestamp": 1656856800
+  },
+  {
+    "movie": 42,
+    "code": "624",
+    "date": "5.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 122,
+    "datetime": "2023 5.7. 15:00",
+    "timestamp": 1657033200
+  },
+  {
+    "movie": 42,
+    "code": "7K5",
+    "date": "6.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 123,
+    "datetime": "2023 6.7. 15:00",
+    "timestamp": 1657119600
+  },
+  {
+    "movie": 42,
+    "code": "951",
+    "date": "8.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 124,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 43,
+    "code": "2K3",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 125,
+    "datetime": "2023 1.7. 12:00",
+    "timestamp": 1656676800
+  },
+  {
+    "movie": 43,
+    "code": "453",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 126,
+    "datetime": "2023 3.7. 14:00",
+    "timestamp": 1656856800
+  },
+  {
+    "movie": 44,
+    "code": "216",
+    "date": "1.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 127,
+    "datetime": "2023 1.7. 17:00",
+    "timestamp": 1656694800
+  },
+  {
+    "movie": 44,
+    "code": "3P1",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 128,
+    "datetime": "2023 2.7. 10:00",
+    "timestamp": 1656756000
+  },
+  {
+    "movie": 44,
+    "code": "4L4",
+    "date": "3.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 129,
+    "datetime": "2023 3.7. 16:00",
+    "timestamp": 1656864000
+  },
+  {
+    "movie": 44,
+    "code": "536",
+    "date": "4.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 130,
+    "datetime": "2023 4.7. 19:00",
+    "timestamp": 1656961200
+  },
+  {
+    "movie": 45,
+    "code": "516",
+    "date": "4.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 131,
+    "datetime": "2023 4.7. 17:00",
+    "timestamp": 1656954000
+  },
+  {
+    "movie": 45,
+    "code": "6P1",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 132,
+    "datetime": "2023 5.7. 10:00",
+    "timestamp": 1657015200
+  },
+  {
+    "movie": 45,
+    "code": "7L4",
+    "date": "6.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 133,
+    "datetime": "2023 6.7. 16:00",
+    "timestamp": 1657123200
+  },
+  {
+    "movie": 45,
+    "code": "834",
+    "date": "7.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 134,
+    "datetime": "2023 7.7. 13:00",
+    "timestamp": 1657198800
+  },
+  {
+    "movie": 46,
+    "code": "3L6",
+    "date": "2.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 135,
+    "datetime": "2023 2.7. 22:00",
+    "timestamp": 1656799200
+  },
+  {
+    "movie": 46,
+    "code": "821",
+    "date": "7.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 136,
+    "datetime": "2023 7.7. 9:00",
+    "timestamp": 1657184400
+  },
+  {
+    "movie": 47,
+    "code": "3D4",
+    "date": "2.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 137,
+    "datetime": "2023 2.7. 19:00",
+    "timestamp": 1656788400
+  },
+  {
+    "movie": 47,
+    "code": "4C5",
+    "date": "3.7.",
+    "cinema": "Kino \u010cas",
+    "id": 138,
+    "datetime": "2023 3.7. 15:00",
+    "timestamp": 1656860400
+  },
+  {
+    "movie": 47,
+    "code": "5L2",
+    "date": "4.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 139,
+    "datetime": "2023 4.7. 13:00",
+    "timestamp": 1656939600
+  },
+  {
+    "movie": 47,
+    "code": "653",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 140,
+    "datetime": "2023 5.7. 14:00",
+    "timestamp": 1657029600
+  },
+  {
+    "movie": 48,
+    "code": "3C9",
+    "date": "2.7.",
+    "cinema": "Kino \u010cas",
+    "id": 141,
+    "datetime": "2023 2.7. 23:59",
+    "timestamp": 1656806340
+  },
+  {
+    "movie": 48,
+    "code": "7C9",
+    "date": "6.7.",
+    "cinema": "Kino \u010cas",
+    "id": 142,
+    "datetime": "2023 6.7. 23:59",
+    "timestamp": 1657151940
+  },
+  {
+    "movie": 49,
+    "code": "523",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 143,
+    "datetime": "2023 4.7. 12:00",
+    "timestamp": 1656936000
+  },
+  {
+    "movie": 49,
+    "code": "6K5",
+    "date": "5.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 144,
+    "datetime": "2023 5.7. 15:00",
+    "timestamp": 1657033200
+  },
+  {
+    "movie": 50,
+    "code": "2L2",
+    "date": "1.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 145,
+    "datetime": "2023 1.7. 13:00",
+    "timestamp": 1656680400
+  },
+  {
+    "movie": 50,
+    "code": "4D1",
+    "date": "3.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 146,
+    "datetime": "2023 3.7. 10:00",
+    "timestamp": 1656842400
+  },
+  {
+    "movie": 50,
+    "code": "7K1",
+    "date": "6.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 147,
+    "datetime": "2023 6.7. 9:00",
+    "timestamp": 1657098000
+  },
+  {
+    "movie": 51,
+    "code": "2P6",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 148,
+    "datetime": "2023 1.7. 22:00",
+    "timestamp": 1656712800
+  },
+  {
+    "movie": 51,
+    "code": "824",
+    "date": "7.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 149,
+    "datetime": "2023 7.7. 15:00",
+    "timestamp": 1657206000
+  },
+  {
+    "movie": 51,
+    "code": "9D2",
+    "date": "8.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 150,
+    "datetime": "2023 8.7. 13:00",
+    "timestamp": 1657285200
+  },
+  {
+    "movie": 52,
+    "code": "424",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 151,
+    "datetime": "2023 3.7. 15:00",
+    "timestamp": 1656860400
+  },
+  {
+    "movie": 53,
+    "code": "2K7",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 152,
+    "datetime": "2023 1.7. 21:00",
+    "timestamp": 1656709200
+  },
+  {
+    "movie": 53,
+    "code": "3H5",
+    "date": "2.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 153,
+    "datetime": "2023 2.7. 19:30",
+    "timestamp": 1656790200
+  },
+  {
+    "movie": 53,
+    "code": "5H1",
+    "date": "4.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 154,
+    "datetime": "2023 4.7. 10:30",
+    "timestamp": 1656930600
+  },
+  {
+    "movie": 54,
+    "code": "228",
+    "date": "1.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 155,
+    "datetime": "2023 1.7. 23:59",
+    "timestamp": 1656719940
+  },
+  {
+    "movie": 54,
+    "code": "4C9",
+    "date": "3.7.",
+    "cinema": "Kino \u010cas",
+    "id": 156,
+    "datetime": "2023 3.7. 23:59",
+    "timestamp": 1656892740
+  },
+  {
+    "movie": 54,
+    "code": "6C9",
+    "date": "5.7.",
+    "cinema": "Kino \u010cas",
+    "id": 157,
+    "datetime": "2023 5.7. 23:59",
+    "timestamp": 1657065540
+  },
+  {
+    "movie": 54,
+    "code": "928",
+    "date": "8.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 158,
+    "datetime": "2023 8.7. 23:59",
+    "timestamp": 1657324740
+  },
+  {
+    "movie": 55,
+    "code": "1P2",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 159,
+    "datetime": "2023 30.6. 13:00",
+    "timestamp": 1656594000
+  },
+  {
+    "movie": 55,
+    "code": "2C1",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 160,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 55,
+    "code": "613",
+    "date": "5.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 161,
+    "datetime": "2023 5.7. 11:00",
+    "timestamp": 1657018800
+  },
+  {
+    "movie": 56,
+    "code": "213",
+    "date": "1.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 162,
+    "datetime": "2023 1.7. 11:00",
+    "timestamp": 1656673200
+  },
+  {
+    "movie": 56,
+    "code": "7P6",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 163,
+    "datetime": "2023 6.7. 22:00",
+    "timestamp": 1657144800
+  },
+  {
+    "movie": 57,
+    "code": "155",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 164,
+    "datetime": "2023 30.6. 19:00",
+    "timestamp": 1656615600
+  },
+  {
+    "movie": 57,
+    "code": "6K1",
+    "date": "5.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 165,
+    "datetime": "2023 5.7. 9:00",
+    "timestamp": 1657011600
+  },
+  {
+    "movie": 57,
+    "code": "755",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 166,
+    "datetime": "2023 6.7. 19:00",
+    "timestamp": 1657134000
+  },
+  {
+    "movie": 58,
+    "code": "131",
+    "date": "30.6.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 167,
+    "datetime": "2023 30.6. 8:30",
+    "timestamp": 1656577800
+  },
+  {
+    "movie": 58,
+    "code": "2P2",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 168,
+    "datetime": "2023 1.7. 13:00",
+    "timestamp": 1656680400
+  },
+  {
+    "movie": 58,
+    "code": "621",
+    "date": "5.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 169,
+    "datetime": "2023 5.7. 9:00",
+    "timestamp": 1657011600
+  },
+  {
+    "movie": 59,
+    "code": "2K1",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 170,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 59,
+    "code": "825",
+    "date": "7.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 171,
+    "datetime": "2023 7.7. 18:00",
+    "timestamp": 1657216800
+  },
+  {
+    "movie": 59,
+    "code": "9C5",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 172,
+    "datetime": "2023 8.7. 15:00",
+    "timestamp": 1657292400
+  },
+  {
+    "movie": 60,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 173,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 60,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 174,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 60,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 175,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 61,
+    "code": "221",
+    "date": "1.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 176,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 61,
+    "code": "351",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 177,
+    "datetime": "2023 2.7. 9:00",
+    "timestamp": 1656752400
+  },
+  {
+    "movie": 61,
+    "code": "5P6",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 178,
+    "datetime": "2023 4.7. 22:00",
+    "timestamp": 1656972000
+  },
+  {
+    "movie": 62,
+    "code": "137",
+    "date": "30.6.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 179,
+    "datetime": "2023 30.6. 22:00",
+    "timestamp": 1656626400
+  },
+  {
+    "movie": 62,
+    "code": "51A",
+    "date": "4.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 180,
+    "datetime": "2023 4.7. 23:00",
+    "timestamp": 1656975600
+  },
+  {
+    "movie": 63,
+    "code": "7D3",
+    "date": "6.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 181,
+    "datetime": "2023 6.7. 16:00",
+    "timestamp": 1657123200
+  },
+  {
+    "movie": 64,
+    "code": "223",
+    "date": "1.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 182,
+    "datetime": "2023 1.7. 12:00",
+    "timestamp": 1656676800
+  },
+  {
+    "movie": 64,
+    "code": "4K3",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 183,
+    "datetime": "2023 3.7. 12:00",
+    "timestamp": 1656849600
+  },
+  {
+    "movie": 64,
+    "code": "751",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 184,
+    "datetime": "2023 6.7. 9:00",
+    "timestamp": 1657098000
+  },
+  {
+    "movie": 65,
+    "code": "1H2",
+    "date": "30.6.",
+    "cinema": "Divadlo Husovka",
+    "id": 185,
+    "datetime": "2023 30.6. 13:30",
+    "timestamp": 1656595800
+  },
+  {
+    "movie": 65,
+    "code": "4H1",
+    "date": "3.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 186,
+    "datetime": "2023 3.7. 10:30",
+    "timestamp": 1656844200
+  },
+  {
+    "movie": 65,
+    "code": "9H3",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 187,
+    "datetime": "2023 8.7. 16:30",
+    "timestamp": 1657297800
+  },
+  {
+    "movie": 66,
+    "code": "1D3",
+    "date": "30.6.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 188,
+    "datetime": "2023 30.6. 16:00",
+    "timestamp": 1656604800
+  },
+  {
+    "movie": 66,
+    "code": "4P6",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 189,
+    "datetime": "2023 3.7. 22:00",
+    "timestamp": 1656885600
+  },
+  {
+    "movie": 66,
+    "code": "937",
+    "date": "8.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 190,
+    "datetime": "2023 8.7. 22:00",
+    "timestamp": 1657317600
+  },
+  {
+    "movie": 67,
+    "code": "4K6",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 191,
+    "datetime": "2023 3.7. 18:00",
+    "timestamp": 1656871200
+  },
+  {
+    "movie": 67,
+    "code": "5C6",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 192,
+    "datetime": "2023 4.7. 18:00",
+    "timestamp": 1656957600
+  },
+  {
+    "movie": 67,
+    "code": "9H2",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 193,
+    "datetime": "2023 8.7. 13:30",
+    "timestamp": 1657287000
+  },
+  {
+    "movie": 68,
+    "code": "151",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 194,
+    "datetime": "2023 30.6. 9:00",
+    "timestamp": 1656579600
+  },
+  {
+    "movie": 68,
+    "code": "7K6",
+    "date": "6.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 195,
+    "datetime": "2023 6.7. 18:00",
+    "timestamp": 1657130400
+  },
+  {
+    "movie": 68,
+    "code": "827",
+    "date": "7.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 196,
+    "datetime": "2023 7.7. 21:00",
+    "timestamp": 1657227600
+  },
+  {
+    "movie": 69,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 197,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 69,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 198,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 69,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 199,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 70,
+    "code": "2D2",
+    "date": "1.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 200,
+    "datetime": "2023 1.7. 13:00",
+    "timestamp": 1656680400
+  },
+  {
+    "movie": 70,
+    "code": "3P4",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 201,
+    "datetime": "2023 2.7. 16:00",
+    "timestamp": 1656777600
+  },
+  {
+    "movie": 70,
+    "code": "6K7",
+    "date": "5.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 202,
+    "datetime": "2023 5.7. 21:00",
+    "timestamp": 1657054800
+  },
+  {
+    "movie": 71,
+    "code": "1D4",
+    "date": "30.6.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 203,
+    "datetime": "2023 30.6. 19:00",
+    "timestamp": 1656615600
+  },
+  {
+    "movie": 71,
+    "code": "5K2",
+    "date": "4.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 204,
+    "datetime": "2023 4.7. 11:00",
+    "timestamp": 1656932400
+  },
+  {
+    "movie": 72,
+    "code": "1H7",
+    "date": "30.6.",
+    "cinema": "Divadlo Husovka",
+    "id": 205,
+    "datetime": "2023 30.6. 22:30",
+    "timestamp": 1656628200
+  },
+  {
+    "movie": 72,
+    "code": "4C7",
+    "date": "3.7.",
+    "cinema": "Kino \u010cas",
+    "id": 206,
+    "datetime": "2023 3.7. 21:00",
+    "timestamp": 1656882000
+  },
+  {
+    "movie": 72,
+    "code": "5H2",
+    "date": "4.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 207,
+    "datetime": "2023 4.7. 13:30",
+    "timestamp": 1656941400
+  },
+  {
+    "movie": 73,
+    "code": "215",
+    "date": "1.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 208,
+    "datetime": "2023 1.7. 14:00",
+    "timestamp": 1656684000
+  },
+  {
+    "movie": 74,
+    "code": "325",
+    "date": "2.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 209,
+    "datetime": "2023 2.7. 18:00",
+    "timestamp": 1656784800
+  },
+  {
+    "movie": 74,
+    "code": "4K7",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 210,
+    "datetime": "2023 3.7. 21:00",
+    "timestamp": 1656882000
+  },
+  {
+    "movie": 74,
+    "code": "8H7",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 211,
+    "datetime": "2023 7.7. 22:30",
+    "timestamp": 1657233000
+  },
+  {
+    "movie": 75,
+    "code": "2L1",
+    "date": "1.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 212,
+    "datetime": "2023 1.7. 10:00",
+    "timestamp": 1656669600
+  },
+  {
+    "movie": 75,
+    "code": "4H3",
+    "date": "3.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 213,
+    "datetime": "2023 3.7. 16:30",
+    "timestamp": 1656865800
+  },
+  {
+    "movie": 75,
+    "code": "837",
+    "date": "7.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 214,
+    "datetime": "2023 7.7. 22:00",
+    "timestamp": 1657231200
+  },
+  {
+    "movie": 76,
+    "code": "1C5",
+    "date": "30.6.",
+    "cinema": "Kino \u010cas",
+    "id": 215,
+    "datetime": "2023 30.6. 15:00",
+    "timestamp": 1656601200
+  },
+  {
+    "movie": 76,
+    "code": "619",
+    "date": "5.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 216,
+    "datetime": "2023 5.7. 22:30",
+    "timestamp": 1657060200
+  },
+  {
+    "movie": 76,
+    "code": "8H5",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 217,
+    "datetime": "2023 7.7. 19:30",
+    "timestamp": 1657222200
+  },
+  {
+    "movie": 77,
+    "code": "3D1",
+    "date": "2.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 218,
+    "datetime": "2023 2.7. 10:00",
+    "timestamp": 1656756000
+  },
+  {
+    "movie": 77,
+    "code": "713",
+    "date": "6.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 219,
+    "datetime": "2023 6.7. 11:00",
+    "timestamp": 1657105200
+  },
+  {
+    "movie": 77,
+    "code": "923",
+    "date": "8.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 220,
+    "datetime": "2023 8.7. 12:00",
+    "timestamp": 1657281600
+  },
+  {
+    "movie": 78,
+    "code": "313",
+    "date": "2.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 221,
+    "datetime": "2023 2.7. 11:00",
+    "timestamp": 1656759600
+  },
+  {
+    "movie": 78,
+    "code": "4P5",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 222,
+    "datetime": "2023 3.7. 19:00",
+    "timestamp": 1656874800
+  },
+  {
+    "movie": 78,
+    "code": "711",
+    "date": "6.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 223,
+    "datetime": "2023 6.7. 8:30",
+    "timestamp": 1657096200
+  },
+  {
+    "movie": 79,
+    "code": "3D2",
+    "date": "2.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 224,
+    "datetime": "2023 2.7. 13:00",
+    "timestamp": 1656766800
+  },
+  {
+    "movie": 79,
+    "code": "723",
+    "date": "6.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 225,
+    "datetime": "2023 6.7. 12:00",
+    "timestamp": 1657108800
+  },
+  {
+    "movie": 80,
+    "code": "356",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 226,
+    "datetime": "2023 2.7. 20:00",
+    "timestamp": 1656792000
+  },
+  {
+    "movie": 80,
+    "code": "6H7",
+    "date": "5.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 227,
+    "datetime": "2023 5.7. 22:30",
+    "timestamp": 1657060200
+  },
+  {
+    "movie": 80,
+    "code": "831",
+    "date": "7.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 228,
+    "datetime": "2023 7.7. 8:30",
+    "timestamp": 1657182600
+  },
+  {
+    "movie": 81,
+    "code": "1D1",
+    "date": "30.6.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 229,
+    "datetime": "2023 30.6. 10:00",
+    "timestamp": 1656583200
+  },
+  {
+    "movie": 81,
+    "code": "833",
+    "date": "7.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 230,
+    "datetime": "2023 7.7. 10:30",
+    "timestamp": 1657189800
+  },
+  {
+    "movie": 82,
+    "code": "2C6",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 231,
+    "datetime": "2023 1.7. 18:00",
+    "timestamp": 1656698400
+  },
+  {
+    "movie": 82,
+    "code": "3K3",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 232,
+    "datetime": "2023 2.7. 12:00",
+    "timestamp": 1656763200
+  },
+  {
+    "movie": 82,
+    "code": "8H2",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 233,
+    "datetime": "2023 7.7. 13:30",
+    "timestamp": 1657200600
+  },
+  {
+    "movie": 83,
+    "code": "152",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 234,
+    "datetime": "2023 30.6. 11:30",
+    "timestamp": 1656588600
+  },
+  {
+    "movie": 83,
+    "code": "5K7",
+    "date": "4.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 235,
+    "datetime": "2023 4.7. 21:00",
+    "timestamp": 1656968400
+  },
+  {
+    "movie": 84,
+    "code": "524",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 236,
+    "datetime": "2023 4.7. 15:00",
+    "timestamp": 1656946800
+  },
+  {
+    "movie": 85,
+    "code": "157",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 237,
+    "datetime": "2023 30.6. 22:30",
+    "timestamp": 1656628200
+  },
+  {
+    "movie": 85,
+    "code": "4L6",
+    "date": "3.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 238,
+    "datetime": "2023 3.7. 22:00",
+    "timestamp": 1656885600
+  },
+  {
+    "movie": 85,
+    "code": "9C7",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 239,
+    "datetime": "2023 8.7. 21:00",
+    "timestamp": 1657314000
+  },
+  {
+    "movie": 86,
+    "code": "252",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 240,
+    "datetime": "2023 1.7. 11:30",
+    "timestamp": 1656675000
+  },
+  {
+    "movie": 86,
+    "code": "6P4",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 241,
+    "datetime": "2023 5.7. 16:00",
+    "timestamp": 1657036800
+  },
+  {
+    "movie": 86,
+    "code": "8D4",
+    "date": "7.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 242,
+    "datetime": "2023 7.7. 19:00",
+    "timestamp": 1657220400
+  },
+  {
+    "movie": 87,
+    "code": "1P4",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 243,
+    "datetime": "2023 30.6. 16:00",
+    "timestamp": 1656604800
+  },
+  {
+    "movie": 87,
+    "code": "2H5",
+    "date": "1.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 244,
+    "datetime": "2023 1.7. 19:30",
+    "timestamp": 1656703800
+  },
+  {
+    "movie": 87,
+    "code": "7D5",
+    "date": "6.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 245,
+    "datetime": "2023 6.7. 22:00",
+    "timestamp": 1657144800
+  },
+  {
+    "movie": 88,
+    "code": "2C7",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 246,
+    "datetime": "2023 1.7. 21:00",
+    "timestamp": 1656709200
+  },
+  {
+    "movie": 88,
+    "code": "3H3",
+    "date": "2.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 247,
+    "datetime": "2023 2.7. 16:30",
+    "timestamp": 1656779400
+  },
+  {
+    "movie": 88,
+    "code": "7H1",
+    "date": "6.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 248,
+    "datetime": "2023 6.7. 10:30",
+    "timestamp": 1657103400
+  },
+  {
+    "movie": 89,
+    "code": "3H2",
+    "date": "2.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 249,
+    "datetime": "2023 2.7. 13:30",
+    "timestamp": 1656768600
+  },
+  {
+    "movie": 89,
+    "code": "6D5",
+    "date": "5.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 250,
+    "datetime": "2023 5.7. 22:00",
+    "timestamp": 1657058400
+  },
+  {
+    "movie": 89,
+    "code": "9L6",
+    "date": "8.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 251,
+    "datetime": "2023 8.7. 22:00",
+    "timestamp": 1657317600
+  },
+  {
+    "movie": 90,
+    "code": "527",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 252,
+    "datetime": "2023 4.7. 21:00",
+    "timestamp": 1656968400
+  },
+  {
+    "movie": 90,
+    "code": "6D1",
+    "date": "5.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 253,
+    "datetime": "2023 5.7. 10:00",
+    "timestamp": 1657015200
+  },
+  {
+    "movie": 91,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 254,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 91,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 255,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 91,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 256,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 92,
+    "code": "4D4",
+    "date": "3.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 257,
+    "datetime": "2023 3.7. 19:00",
+    "timestamp": 1656874800
+  },
+  {
+    "movie": 92,
+    "code": "5C5",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 258,
+    "datetime": "2023 4.7. 15:00",
+    "timestamp": 1656946800
+  },
+  {
+    "movie": 92,
+    "code": "6L2",
+    "date": "5.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 259,
+    "datetime": "2023 5.7. 13:00",
+    "timestamp": 1657026000
+  },
+  {
+    "movie": 92,
+    "code": "753",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 260,
+    "datetime": "2023 6.7. 14:00",
+    "timestamp": 1657116000
+  },
+  {
+    "movie": 93,
+    "code": "2P3",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 261,
+    "datetime": "2023 1.7. 15:00",
+    "timestamp": 1656687600
+  },
+  {
+    "movie": 93,
+    "code": "322",
+    "date": "2.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 262,
+    "datetime": "2023 2.7. 11:30",
+    "timestamp": 1656761400
+  },
+  {
+    "movie": 93,
+    "code": "757",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 263,
+    "datetime": "2023 6.7. 22:30",
+    "timestamp": 1657146600
+  },
+  {
+    "movie": 94,
+    "code": "1H5",
+    "date": "30.6.",
+    "cinema": "Divadlo Husovka",
+    "id": 264,
+    "datetime": "2023 30.6. 19:30",
+    "timestamp": 1656617400
+  },
+  {
+    "movie": 94,
+    "code": "357",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 265,
+    "datetime": "2023 2.7. 22:30",
+    "timestamp": 1656801000
+  },
+  {
+    "movie": 94,
+    "code": "737",
+    "date": "6.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 266,
+    "datetime": "2023 6.7. 22:00",
+    "timestamp": 1657144800
+  },
+  {
+    "movie": 95,
+    "code": "1C1",
+    "date": "30.6.",
+    "cinema": "Kino \u010cas",
+    "id": 267,
+    "datetime": "2023 30.6. 9:00",
+    "timestamp": 1656579600
+  },
+  {
+    "movie": 95,
+    "code": "637",
+    "date": "5.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 268,
+    "datetime": "2023 5.7. 22:00",
+    "timestamp": 1657058400
+  },
+  {
+    "movie": 95,
+    "code": "9H5",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 269,
+    "datetime": "2023 8.7. 19:30",
+    "timestamp": 1657308600
+  },
+  {
+    "movie": 96,
+    "code": "3K5",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 270,
+    "datetime": "2023 2.7. 15:00",
+    "timestamp": 1656774000
+  },
+  {
+    "movie": 96,
+    "code": "454",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 271,
+    "datetime": "2023 3.7. 17:00",
+    "timestamp": 1656867600
+  },
+  {
+    "movie": 97,
+    "code": "1H3",
+    "date": "30.6.",
+    "cinema": "Divadlo Husovka",
+    "id": 272,
+    "datetime": "2023 30.6. 16:30",
+    "timestamp": 1656606600
+  },
+  {
+    "movie": 97,
+    "code": "452",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 273,
+    "datetime": "2023 3.7. 11:30",
+    "timestamp": 1656847800
+  },
+  {
+    "movie": 97,
+    "code": "9K1",
+    "date": "8.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 274,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 98,
+    "code": "133",
+    "date": "30.6.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 275,
+    "datetime": "2023 30.6. 10:30",
+    "timestamp": 1656585000
+  },
+  {
+    "movie": 98,
+    "code": "7L6",
+    "date": "6.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 276,
+    "datetime": "2023 6.7. 22:00",
+    "timestamp": 1657144800
+  },
+  {
+    "movie": 99,
+    "code": "424",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 277,
+    "datetime": "2023 3.7. 15:00",
+    "timestamp": 1656860400
+  },
+  {
+    "movie": 100,
+    "code": "4K6",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 278,
+    "datetime": "2023 3.7. 18:00",
+    "timestamp": 1656871200
+  },
+  {
+    "movie": 100,
+    "code": "5C6",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 279,
+    "datetime": "2023 4.7. 18:00",
+    "timestamp": 1656957600
+  },
+  {
+    "movie": 100,
+    "code": "9H2",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 280,
+    "datetime": "2023 8.7. 13:30",
+    "timestamp": 1657287000
+  },
+  {
+    "movie": 101,
+    "code": "7P3",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 281,
+    "datetime": "2023 6.7. 15:00",
+    "timestamp": 1657119600
+  },
+  {
+    "movie": 101,
+    "code": "8C2",
+    "date": "7.7.",
+    "cinema": "Kino \u010cas",
+    "id": 282,
+    "datetime": "2023 7.7. 11:30",
+    "timestamp": 1657193400
+  },
+  {
+    "movie": 101,
+    "code": "9L1",
+    "date": "8.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 283,
+    "datetime": "2023 8.7. 10:00",
+    "timestamp": 1657274400
+  },
+  {
+    "movie": 101,
+    "code": "954",
+    "date": "8.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 284,
+    "datetime": "2023 8.7. 17:00",
+    "timestamp": 1657299600
+  },
+  {
+    "movie": 102,
+    "code": "4K6",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 285,
+    "datetime": "2023 3.7. 18:00",
+    "timestamp": 1656871200
+  },
+  {
+    "movie": 102,
+    "code": "5C6",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 286,
+    "datetime": "2023 4.7. 18:00",
+    "timestamp": 1656957600
+  },
+  {
+    "movie": 102,
+    "code": "9H2",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 287,
+    "datetime": "2023 8.7. 13:30",
+    "timestamp": 1657287000
+  },
+  {
+    "movie": 103,
+    "code": "1K4",
+    "date": "30.6.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 288,
+    "datetime": "2023 30.6. 12:30",
+    "timestamp": 1656592200
+  },
+  {
+    "movie": 103,
+    "code": "321",
+    "date": "2.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 289,
+    "datetime": "2023 2.7. 9:00",
+    "timestamp": 1656752400
+  },
+  {
+    "movie": 103,
+    "code": "9D1",
+    "date": "8.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 290,
+    "datetime": "2023 8.7. 10:00",
+    "timestamp": 1657274400
+  },
+  {
+    "movie": 104,
+    "code": "3L1",
+    "date": "2.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 291,
+    "datetime": "2023 2.7. 10:00",
+    "timestamp": 1656756000
+  },
+  {
+    "movie": 104,
+    "code": "8D3",
+    "date": "7.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 292,
+    "datetime": "2023 7.7. 16:00",
+    "timestamp": 1657209600
+  },
+  {
+    "movie": 105,
+    "code": "1L4",
+    "date": "30.6.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 293,
+    "datetime": "2023 30.6. 16:00",
+    "timestamp": 1656604800
+  },
+  {
+    "movie": 105,
+    "code": "5H5",
+    "date": "4.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 294,
+    "datetime": "2023 4.7. 19:30",
+    "timestamp": 1656963000
+  },
+  {
+    "movie": 105,
+    "code": "9D3",
+    "date": "8.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 295,
+    "datetime": "2023 8.7. 16:00",
+    "timestamp": 1657296000
+  },
+  {
+    "movie": 106,
+    "code": "237",
+    "date": "1.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 296,
+    "datetime": "2023 1.7. 22:00",
+    "timestamp": 1656712800
+  },
+  {
+    "movie": 106,
+    "code": "4H7",
+    "date": "3.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 297,
+    "datetime": "2023 3.7. 22:30",
+    "timestamp": 1656887400
+  },
+  {
+    "movie": 106,
+    "code": "6C8",
+    "date": "5.7.",
+    "cinema": "Kino \u010cas",
+    "id": 298,
+    "datetime": "2023 5.7. 22:00",
+    "timestamp": 1657058400
+  },
+  {
+    "movie": 107,
+    "code": "136",
+    "date": "30.6.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 299,
+    "datetime": "2023 30.6. 19:00",
+    "timestamp": 1656615600
+  },
+  {
+    "movie": 107,
+    "code": "456",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 300,
+    "datetime": "2023 3.7. 20:00",
+    "timestamp": 1656878400
+  },
+  {
+    "movie": 107,
+    "code": "754",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 301,
+    "datetime": "2023 6.7. 17:00",
+    "timestamp": 1657126800
+  },
+  {
+    "movie": 108,
+    "code": "2C3",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 302,
+    "datetime": "2023 1.7. 12:00",
+    "timestamp": 1656676800
+  },
+  {
+    "movie": 108,
+    "code": "3K6",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 303,
+    "datetime": "2023 2.7. 18:00",
+    "timestamp": 1656784800
+  },
+  {
+    "movie": 108,
+    "code": "6H4",
+    "date": "5.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 304,
+    "datetime": "2023 5.7. 18:00",
+    "timestamp": 1657044000
+  },
+  {
+    "movie": 109,
+    "code": "1P1",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 305,
+    "datetime": "2023 30.6. 10:00",
+    "timestamp": 1656583200
+  },
+  {
+    "movie": 109,
+    "code": "257",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 306,
+    "datetime": "2023 1.7. 22:30",
+    "timestamp": 1656714600
+  },
+  {
+    "movie": 109,
+    "code": "437",
+    "date": "3.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 307,
+    "datetime": "2023 3.7. 22:00",
+    "timestamp": 1656885600
+  },
+  {
+    "movie": 110,
+    "code": "3P5",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 308,
+    "datetime": "2023 2.7. 19:00",
+    "timestamp": 1656788400
+  },
+  {
+    "movie": 110,
+    "code": "427",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 309,
+    "datetime": "2023 3.7. 21:00",
+    "timestamp": 1656882000
+  },
+  {
+    "movie": 110,
+    "code": "5K5",
+    "date": "4.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 310,
+    "datetime": "2023 4.7. 15:00",
+    "timestamp": 1656946800
+  },
+  {
+    "movie": 110,
+    "code": "957",
+    "date": "8.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 311,
+    "datetime": "2023 8.7. 22:30",
+    "timestamp": 1657319400
+  },
+  {
+    "movie": 111,
+    "code": "634",
+    "date": "5.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 312,
+    "datetime": "2023 5.7. 13:00",
+    "timestamp": 1657026000
+  },
+  {
+    "movie": 111,
+    "code": "8K1",
+    "date": "7.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 313,
+    "datetime": "2023 7.7. 9:00",
+    "timestamp": 1657184400
+  },
+  {
+    "movie": 112,
+    "code": "316",
+    "date": "2.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 314,
+    "datetime": "2023 2.7. 17:00",
+    "timestamp": 1656781200
+  },
+  {
+    "movie": 112,
+    "code": "4P1",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 315,
+    "datetime": "2023 3.7. 10:00",
+    "timestamp": 1656842400
+  },
+  {
+    "movie": 112,
+    "code": "5L4",
+    "date": "4.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 316,
+    "datetime": "2023 4.7. 16:00",
+    "timestamp": 1656950400
+  },
+  {
+    "movie": 112,
+    "code": "635",
+    "date": "5.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 317,
+    "datetime": "2023 5.7. 16:00",
+    "timestamp": 1657036800
+  },
+  {
+    "movie": 113,
+    "code": "425",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 318,
+    "datetime": "2023 3.7. 18:00",
+    "timestamp": 1656871200
+  },
+  {
+    "movie": 114,
+    "code": "2C6",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 319,
+    "datetime": "2023 1.7. 18:00",
+    "timestamp": 1656698400
+  },
+  {
+    "movie": 114,
+    "code": "3K3",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 320,
+    "datetime": "2023 2.7. 12:00",
+    "timestamp": 1656763200
+  },
+  {
+    "movie": 114,
+    "code": "8H2",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 321,
+    "datetime": "2023 7.7. 13:30",
+    "timestamp": 1657200600
+  },
+  {
+    "movie": 115,
+    "code": "2C6",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 322,
+    "datetime": "2023 1.7. 18:00",
+    "timestamp": 1656698400
+  },
+  {
+    "movie": 115,
+    "code": "3K3",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 323,
+    "datetime": "2023 2.7. 12:00",
+    "timestamp": 1656763200
+  },
+  {
+    "movie": 115,
+    "code": "8H2",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 324,
+    "datetime": "2023 7.7. 13:30",
+    "timestamp": 1657200600
+  },
+  {
+    "movie": 116,
+    "code": "1P6",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 325,
+    "datetime": "2023 30.6. 22:00",
+    "timestamp": 1656626400
+  },
+  {
+    "movie": 116,
+    "code": "4K1",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 326,
+    "datetime": "2023 3.7. 9:00",
+    "timestamp": 1656838800
+  },
+  {
+    "movie": 116,
+    "code": "857",
+    "date": "7.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 327,
+    "datetime": "2023 7.7. 22:30",
+    "timestamp": 1657233000
+  },
+  {
+    "movie": 117,
+    "code": "627",
+    "date": "5.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 328,
+    "datetime": "2023 5.7. 21:00",
+    "timestamp": 1657054800
+  },
+  {
+    "movie": 117,
+    "code": "7P5",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 329,
+    "datetime": "2023 6.7. 19:00",
+    "timestamp": 1657134000
+  },
+  {
+    "movie": 117,
+    "code": "836",
+    "date": "7.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 330,
+    "datetime": "2023 7.7. 19:00",
+    "timestamp": 1657220400
+  },
+  {
+    "movie": 117,
+    "code": "931",
+    "date": "8.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 331,
+    "datetime": "2023 8.7. 8:30",
+    "timestamp": 1657269000
+  },
+  {
+    "movie": 118,
+    "code": "518",
+    "date": "4.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 332,
+    "datetime": "2023 4.7. 20:00",
+    "timestamp": 1656964800
+  },
+  {
+    "movie": 118,
+    "code": "6P2",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 333,
+    "datetime": "2023 5.7. 13:00",
+    "timestamp": 1657026000
+  },
+  {
+    "movie": 118,
+    "code": "7L5",
+    "date": "6.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 334,
+    "datetime": "2023 6.7. 19:00",
+    "timestamp": 1657134000
+  },
+  {
+    "movie": 118,
+    "code": "835",
+    "date": "7.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 335,
+    "datetime": "2023 7.7. 16:00",
+    "timestamp": 1657209600
+  },
+  {
+    "movie": 119,
+    "code": "3K5",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 336,
+    "datetime": "2023 2.7. 15:00",
+    "timestamp": 1656774000
+  },
+  {
+    "movie": 119,
+    "code": "454",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 337,
+    "datetime": "2023 3.7. 17:00",
+    "timestamp": 1656867600
+  },
+  {
+    "movie": 120,
+    "code": "2L6",
+    "date": "1.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 338,
+    "datetime": "2023 1.7. 22:00",
+    "timestamp": 1656712800
+  },
+  {
+    "movie": 120,
+    "code": "4H5",
+    "date": "3.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 339,
+    "datetime": "2023 3.7. 19:30",
+    "timestamp": 1656876600
+  },
+  {
+    "movie": 120,
+    "code": "8D1",
+    "date": "7.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 340,
+    "datetime": "2023 7.7. 10:00",
+    "timestamp": 1657188000
+  },
+  {
+    "movie": 121,
+    "code": "2C6",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 341,
+    "datetime": "2023 1.7. 18:00",
+    "timestamp": 1656698400
+  },
+  {
+    "movie": 121,
+    "code": "3K3",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 342,
+    "datetime": "2023 2.7. 12:00",
+    "timestamp": 1656763200
+  },
+  {
+    "movie": 121,
+    "code": "8H2",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 343,
+    "datetime": "2023 7.7. 13:30",
+    "timestamp": 1657200600
+  },
+  {
+    "movie": 122,
+    "code": "1L1",
+    "date": "30.6.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 344,
+    "datetime": "2023 30.6. 10:00",
+    "timestamp": 1656583200
+  },
+  {
+    "movie": 122,
+    "code": "633",
+    "date": "5.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 345,
+    "datetime": "2023 5.7. 10:30",
+    "timestamp": 1657017000
+  },
+  {
+    "movie": 122,
+    "code": "7H6",
+    "date": "6.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 346,
+    "datetime": "2023 6.7. 20:00",
+    "timestamp": 1657137600
+  },
+  {
+    "movie": 123,
+    "code": "3P6",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 347,
+    "datetime": "2023 2.7. 22:00",
+    "timestamp": 1656799200
+  },
+  {
+    "movie": 123,
+    "code": "616",
+    "date": "5.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 348,
+    "datetime": "2023 5.7. 17:00",
+    "timestamp": 1657040400
+  },
+  {
+    "movie": 123,
+    "code": "822",
+    "date": "7.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 349,
+    "datetime": "2023 7.7. 11:30",
+    "timestamp": 1657193400
+  },
+  {
+    "movie": 124,
+    "code": "2K5",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 350,
+    "datetime": "2023 1.7. 15:00",
+    "timestamp": 1656687600
+  },
+  {
+    "movie": 124,
+    "code": "3L5",
+    "date": "2.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 351,
+    "datetime": "2023 2.7. 19:00",
+    "timestamp": 1656788400
+  },
+  {
+    "movie": 124,
+    "code": "925",
+    "date": "8.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 352,
+    "datetime": "2023 8.7. 18:00",
+    "timestamp": 1657303200
+  },
+  {
+    "movie": 125,
+    "code": "135",
+    "date": "30.6.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 353,
+    "datetime": "2023 30.6. 16:00",
+    "timestamp": 1656604800
+  },
+  {
+    "movie": 125,
+    "code": "4D2",
+    "date": "3.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 354,
+    "datetime": "2023 3.7. 13:00",
+    "timestamp": 1656853200
+  },
+  {
+    "movie": 125,
+    "code": "5K6",
+    "date": "4.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 355,
+    "datetime": "2023 4.7. 18:00",
+    "timestamp": 1656957600
+  },
+  {
+    "movie": 126,
+    "code": "524",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 356,
+    "datetime": "2023 4.7. 15:00",
+    "timestamp": 1656946800
+  },
+  {
+    "movie": 127,
+    "code": "328",
+    "date": "2.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 357,
+    "datetime": "2023 2.7. 23:59",
+    "timestamp": 1656806340
+  },
+  {
+    "movie": 127,
+    "code": "71A",
+    "date": "6.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 358,
+    "datetime": "2023 6.7. 23:00",
+    "timestamp": 1657148400
+  },
+  {
+    "movie": 127,
+    "code": "9C9",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 359,
+    "datetime": "2023 8.7. 23:59",
+    "timestamp": 1657324740
+  },
+  {
+    "movie": 128,
+    "code": "134",
+    "date": "30.6.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 360,
+    "datetime": "2023 30.6. 13:00",
+    "timestamp": 1656594000
+  },
+  {
+    "movie": 128,
+    "code": "2P5",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 361,
+    "datetime": "2023 1.7. 19:00",
+    "timestamp": 1656702000
+  },
+  {
+    "movie": 128,
+    "code": "5C1",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 362,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 129,
+    "code": "3D5",
+    "date": "2.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 363,
+    "datetime": "2023 2.7. 22:00",
+    "timestamp": 1656799200
+  },
+  {
+    "movie": 129,
+    "code": "5L6",
+    "date": "4.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 364,
+    "datetime": "2023 4.7. 22:00",
+    "timestamp": 1656972000
+  },
+  {
+    "movie": 129,
+    "code": "7H7",
+    "date": "6.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 365,
+    "datetime": "2023 6.7. 22:30",
+    "timestamp": 1657146600
+  },
+  {
+    "movie": 130,
+    "code": "315",
+    "date": "2.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 366,
+    "datetime": "2023 2.7. 14:00",
+    "timestamp": 1656770400
+  },
+  {
+    "movie": 130,
+    "code": "4P4",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 367,
+    "datetime": "2023 3.7. 16:00",
+    "timestamp": 1656864000
+  },
+  {
+    "movie": 130,
+    "code": "6D2",
+    "date": "5.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 368,
+    "datetime": "2023 5.7. 13:00",
+    "timestamp": 1657026000
+  },
+  {
+    "movie": 130,
+    "code": "8C1",
+    "date": "7.7.",
+    "cinema": "Kino \u010cas",
+    "id": 369,
+    "datetime": "2023 7.7. 9:00",
+    "timestamp": 1657184400
+  },
+  {
+    "movie": 131,
+    "code": "5D2",
+    "date": "4.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 370,
+    "datetime": "2023 4.7. 13:00",
+    "timestamp": 1656939600
+  },
+  {
+    "movie": 131,
+    "code": "7C1",
+    "date": "6.7.",
+    "cinema": "Kino \u010cas",
+    "id": 371,
+    "datetime": "2023 6.7. 9:00",
+    "timestamp": 1657098000
+  },
+  {
+    "movie": 132,
+    "code": "154",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 372,
+    "datetime": "2023 30.6. 17:00",
+    "timestamp": 1656608400
+  },
+  {
+    "movie": 132,
+    "code": "7D1",
+    "date": "6.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 373,
+    "datetime": "2023 6.7. 10:00",
+    "timestamp": 1657101600
+  },
+  {
+    "movie": 132,
+    "code": "9C3",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 374,
+    "datetime": "2023 8.7. 12:00",
+    "timestamp": 1657281600
+  },
+  {
+    "movie": 133,
+    "code": "2K3",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 375,
+    "datetime": "2023 1.7. 12:00",
+    "timestamp": 1656676800
+  },
+  {
+    "movie": 133,
+    "code": "453",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 376,
+    "datetime": "2023 3.7. 14:00",
+    "timestamp": 1656856800
+  },
+  {
+    "movie": 134,
+    "code": "457",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 377,
+    "datetime": "2023 3.7. 22:30",
+    "timestamp": 1656887400
+  },
+  {
+    "movie": 134,
+    "code": "5H7",
+    "date": "4.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 378,
+    "datetime": "2023 4.7. 22:30",
+    "timestamp": 1656973800
+  },
+  {
+    "movie": 134,
+    "code": "9K7",
+    "date": "8.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 379,
+    "datetime": "2023 8.7. 21:00",
+    "timestamp": 1657314000
+  },
+  {
+    "movie": 135,
+    "code": "31A",
+    "date": "2.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 380,
+    "datetime": "2023 2.7. 23:00",
+    "timestamp": 1656802800
+  },
+  {
+    "movie": 135,
+    "code": "511",
+    "date": "4.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 381,
+    "datetime": "2023 4.7. 8:30",
+    "timestamp": 1656923400
+  },
+  {
+    "movie": 136,
+    "code": "1C7",
+    "date": "30.6.",
+    "cinema": "Kino \u010cas",
+    "id": 382,
+    "datetime": "2023 30.6. 21:00",
+    "timestamp": 1656622800
+  },
+  {
+    "movie": 136,
+    "code": "4D5",
+    "date": "3.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 383,
+    "datetime": "2023 3.7. 22:00",
+    "timestamp": 1656885600
+  },
+  {
+    "movie": 136,
+    "code": "7H4",
+    "date": "6.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 384,
+    "datetime": "2023 6.7. 18:00",
+    "timestamp": 1657130400
+  },
+  {
+    "movie": 137,
+    "code": "618",
+    "date": "5.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 385,
+    "datetime": "2023 5.7. 20:00",
+    "timestamp": 1657051200
+  },
+  {
+    "movie": 137,
+    "code": "7P1",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 386,
+    "datetime": "2023 6.7. 10:00",
+    "timestamp": 1657101600
+  },
+  {
+    "movie": 137,
+    "code": "8L4",
+    "date": "7.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 387,
+    "datetime": "2023 7.7. 16:00",
+    "timestamp": 1657209600
+  },
+  {
+    "movie": 137,
+    "code": "933",
+    "date": "8.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 388,
+    "datetime": "2023 8.7. 10:30",
+    "timestamp": 1657276200
+  },
+  {
+    "movie": 138,
+    "code": "4K6",
+    "date": "3.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 389,
+    "datetime": "2023 3.7. 18:00",
+    "timestamp": 1656871200
+  },
+  {
+    "movie": 138,
+    "code": "5C6",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 390,
+    "datetime": "2023 4.7. 18:00",
+    "timestamp": 1656957600
+  },
+  {
+    "movie": 138,
+    "code": "9H2",
+    "date": "8.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 391,
+    "datetime": "2023 8.7. 13:30",
+    "timestamp": 1657287000
+  },
+  {
+    "movie": 139,
+    "code": "418",
+    "date": "3.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 392,
+    "datetime": "2023 3.7. 20:00",
+    "timestamp": 1656878400
+  },
+  {
+    "movie": 139,
+    "code": "5P2",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 393,
+    "datetime": "2023 4.7. 13:00",
+    "timestamp": 1656939600
+  },
+  {
+    "movie": 139,
+    "code": "6L5",
+    "date": "5.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 394,
+    "datetime": "2023 5.7. 19:00",
+    "timestamp": 1657047600
+  },
+  {
+    "movie": 139,
+    "code": "735",
+    "date": "6.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 395,
+    "datetime": "2023 6.7. 16:00",
+    "timestamp": 1657123200
+  },
+  {
+    "movie": 140,
+    "code": "2D5",
+    "date": "1.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 396,
+    "datetime": "2023 1.7. 22:00",
+    "timestamp": 1656712800
+  },
+  {
+    "movie": 140,
+    "code": "7C7",
+    "date": "6.7.",
+    "cinema": "Kino \u010cas",
+    "id": 397,
+    "datetime": "2023 6.7. 21:00",
+    "timestamp": 1657141200
+  },
+  {
+    "movie": 140,
+    "code": "8K6",
+    "date": "7.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 398,
+    "datetime": "2023 7.7. 18:00",
+    "timestamp": 1657216800
+  },
+  {
+    "movie": 141,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 399,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 141,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 400,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 141,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 401,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 142,
+    "code": "6D4",
+    "date": "5.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 402,
+    "datetime": "2023 5.7. 19:00",
+    "timestamp": 1657047600
+  },
+  {
+    "movie": 142,
+    "code": "7C5",
+    "date": "6.7.",
+    "cinema": "Kino \u010cas",
+    "id": 403,
+    "datetime": "2023 6.7. 15:00",
+    "timestamp": 1657119600
+  },
+  {
+    "movie": 142,
+    "code": "8L2",
+    "date": "7.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 404,
+    "datetime": "2023 7.7. 13:00",
+    "timestamp": 1657198800
+  },
+  {
+    "movie": 142,
+    "code": "953",
+    "date": "8.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 405,
+    "datetime": "2023 8.7. 14:00",
+    "timestamp": 1657288800
+  },
+  {
+    "movie": 143,
+    "code": "311",
+    "date": "2.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 406,
+    "datetime": "2023 2.7. 8:30",
+    "timestamp": 1656750600
+  },
+  {
+    "movie": 143,
+    "code": "9C6",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 407,
+    "datetime": "2023 8.7. 18:00",
+    "timestamp": 1657303200
+  },
+  {
+    "movie": 144,
+    "code": "1D2",
+    "date": "30.6.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 408,
+    "datetime": "2023 30.6. 13:00",
+    "timestamp": 1656594000
+  },
+  {
+    "movie": 144,
+    "code": "352",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 409,
+    "datetime": "2023 2.7. 11:30",
+    "timestamp": 1656761400
+  },
+  {
+    "movie": 144,
+    "code": "421",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 410,
+    "datetime": "2023 3.7. 9:00",
+    "timestamp": 1656838800
+  },
+  {
+    "movie": 145,
+    "code": "121",
+    "date": "30.6.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 411,
+    "datetime": "2023 30.6. 9:00",
+    "timestamp": 1656579600
+  },
+  {
+    "movie": 145,
+    "code": "3H1",
+    "date": "2.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 412,
+    "datetime": "2023 2.7. 10:30",
+    "timestamp": 1656757800
+  },
+  {
+    "movie": 145,
+    "code": "936",
+    "date": "8.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 413,
+    "datetime": "2023 8.7. 19:00",
+    "timestamp": 1657306800
+  },
+  {
+    "movie": 146,
+    "code": "153",
+    "date": "30.6.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 414,
+    "datetime": "2023 30.6. 14:00",
+    "timestamp": 1656597600
+  },
+  {
+    "movie": 146,
+    "code": "423",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 415,
+    "datetime": "2023 3.7. 12:00",
+    "timestamp": 1656849600
+  },
+  {
+    "movie": 146,
+    "code": "8C8",
+    "date": "7.7.",
+    "cinema": "Kino \u010cas",
+    "id": 416,
+    "datetime": "2023 7.7. 22:00",
+    "timestamp": 1657231200
+  },
+  {
+    "movie": 147,
+    "code": "3H8",
+    "date": "2.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 417,
+    "datetime": "2023 2.7. 23:00",
+    "timestamp": 1656802800
+  },
+  {
+    "movie": 147,
+    "code": "7H2",
+    "date": "6.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 418,
+    "datetime": "2023 6.7. 13:30",
+    "timestamp": 1657114200
+  },
+  {
+    "movie": 147,
+    "code": "9K6",
+    "date": "8.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 419,
+    "datetime": "2023 8.7. 18:00",
+    "timestamp": 1657303200
+  },
+  {
+    "movie": 148,
+    "code": "1C6",
+    "date": "30.6.",
+    "cinema": "Kino \u010cas",
+    "id": 420,
+    "datetime": "2023 30.6. 18:00",
+    "timestamp": 1656612000
+  },
+  {
+    "movie": 148,
+    "code": "3K1",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 421,
+    "datetime": "2023 2.7. 9:00",
+    "timestamp": 1656752400
+  },
+  {
+    "movie": 148,
+    "code": "6C1",
+    "date": "5.7.",
+    "cinema": "Kino \u010cas",
+    "id": 422,
+    "datetime": "2023 5.7. 9:00",
+    "timestamp": 1657011600
+  },
+  {
+    "movie": 149,
+    "code": "1L2",
+    "date": "30.6.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 423,
+    "datetime": "2023 30.6. 13:00",
+    "timestamp": 1656594000
+  },
+  {
+    "movie": 149,
+    "code": "5D1",
+    "date": "4.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 424,
+    "datetime": "2023 4.7. 10:00",
+    "timestamp": 1656928800
+  },
+  {
+    "movie": 149,
+    "code": "6K6",
+    "date": "5.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 425,
+    "datetime": "2023 5.7. 18:00",
+    "timestamp": 1657044000
+  },
+  {
+    "movie": 150,
+    "code": "235",
+    "date": "1.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 426,
+    "datetime": "2023 1.7. 16:00",
+    "timestamp": 1656691200
+  },
+  {
+    "movie": 150,
+    "code": "724",
+    "date": "6.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 427,
+    "datetime": "2023 6.7. 15:00",
+    "timestamp": 1657119600
+  },
+  {
+    "movie": 150,
+    "code": "8K7",
+    "date": "7.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 428,
+    "datetime": "2023 7.7. 21:00",
+    "timestamp": 1657227600
+  },
+  {
+    "movie": 151,
+    "code": "2P1",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 429,
+    "datetime": "2023 1.7. 10:00",
+    "timestamp": 1656669600
+  },
+  {
+    "movie": 151,
+    "code": "818",
+    "date": "7.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 430,
+    "datetime": "2023 7.7. 20:00",
+    "timestamp": 1657224000
+  },
+  {
+    "movie": 152,
+    "code": "1K6",
+    "date": "30.6.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 431,
+    "datetime": "2023 30.6. 18:00",
+    "timestamp": 1656612000
+  },
+  {
+    "movie": 152,
+    "code": "556",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 432,
+    "datetime": "2023 4.7. 20:00",
+    "timestamp": 1656964800
+  },
+  {
+    "movie": 152,
+    "code": "855",
+    "date": "7.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 433,
+    "datetime": "2023 7.7. 19:00",
+    "timestamp": 1657220400
+  },
+  {
+    "movie": 153,
+    "code": "425",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 434,
+    "datetime": "2023 3.7. 18:00",
+    "timestamp": 1656871200
+  },
+  {
+    "movie": 154,
+    "code": "5C7",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 435,
+    "datetime": "2023 4.7. 21:00",
+    "timestamp": 1656968400
+  },
+  {
+    "movie": 154,
+    "code": "625",
+    "date": "5.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 436,
+    "datetime": "2023 5.7. 18:00",
+    "timestamp": 1657044000
+  },
+  {
+    "movie": 154,
+    "code": "7K3",
+    "date": "6.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 437,
+    "datetime": "2023 6.7. 12:00",
+    "timestamp": 1657108800
+  },
+  {
+    "movie": 154,
+    "code": "851",
+    "date": "7.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 438,
+    "datetime": "2023 7.7. 9:00",
+    "timestamp": 1657184400
+  },
+  {
+    "movie": 155,
+    "code": "2K3",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 439,
+    "datetime": "2023 1.7. 12:00",
+    "timestamp": 1656676800
+  },
+  {
+    "movie": 155,
+    "code": "453",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 440,
+    "datetime": "2023 3.7. 14:00",
+    "timestamp": 1656856800
+  },
+  {
+    "movie": 156,
+    "code": "217",
+    "date": "1.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 441,
+    "datetime": "2023 1.7. 19:30",
+    "timestamp": 1656703800
+  },
+  {
+    "movie": 156,
+    "code": "3P2",
+    "date": "2.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 442,
+    "datetime": "2023 2.7. 13:00",
+    "timestamp": 1656766800
+  },
+  {
+    "movie": 156,
+    "code": "4L5",
+    "date": "3.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 443,
+    "datetime": "2023 3.7. 19:00",
+    "timestamp": 1656874800
+  },
+  {
+    "movie": 156,
+    "code": "537",
+    "date": "4.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 444,
+    "datetime": "2023 4.7. 22:00",
+    "timestamp": 1656972000
+  },
+  {
+    "movie": 157,
+    "code": "1K1",
+    "date": "30.6.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 445,
+    "datetime": "2023 30.6. 9:00",
+    "timestamp": 1656579600
+  },
+  {
+    "movie": 157,
+    "code": "255",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 446,
+    "datetime": "2023 1.7. 19:00",
+    "timestamp": 1656702000
+  },
+  {
+    "movie": 157,
+    "code": "8C6",
+    "date": "7.7.",
+    "cinema": "Kino \u010cas",
+    "id": 447,
+    "datetime": "2023 7.7. 18:00",
+    "timestamp": 1657216800
+  },
+  {
+    "movie": 158,
+    "code": "1C9",
+    "date": "30.6.",
+    "cinema": "Kino \u010cas",
+    "id": 448,
+    "datetime": "2023 30.6. 23:59",
+    "timestamp": 1656633540
+  },
+  {
+    "movie": 158,
+    "code": "428",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 449,
+    "datetime": "2023 3.7. 23:59",
+    "timestamp": 1656892740
+  },
+  {
+    "movie": 158,
+    "code": "5C9",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 450,
+    "datetime": "2023 4.7. 23:59",
+    "timestamp": 1656979140
+  },
+  {
+    "movie": 158,
+    "code": "8C9",
+    "date": "7.7.",
+    "cinema": "Kino \u010cas",
+    "id": 451,
+    "datetime": "2023 7.7. 23:59",
+    "timestamp": 1657238340
+  },
+  {
+    "movie": 159,
+    "code": "2D4",
+    "date": "1.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 452,
+    "datetime": "2023 1.7. 19:00",
+    "timestamp": 1656702000
+  },
+  {
+    "movie": 159,
+    "code": "3C5",
+    "date": "2.7.",
+    "cinema": "Kino \u010cas",
+    "id": 453,
+    "datetime": "2023 2.7. 15:00",
+    "timestamp": 1656774000
+  },
+  {
+    "movie": 159,
+    "code": "4L2",
+    "date": "3.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 454,
+    "datetime": "2023 3.7. 13:00",
+    "timestamp": 1656853200
+  },
+  {
+    "movie": 159,
+    "code": "553",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 455,
+    "datetime": "2023 4.7. 14:00",
+    "timestamp": 1656943200
+  },
+  {
+    "movie": 160,
+    "code": "1C3",
+    "date": "30.6.",
+    "cinema": "Kino \u010cas",
+    "id": 456,
+    "datetime": "2023 30.6. 12:00",
+    "timestamp": 1656590400
+  },
+  {
+    "movie": 160,
+    "code": "413",
+    "date": "3.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 457,
+    "datetime": "2023 3.7. 11:00",
+    "timestamp": 1656846000
+  },
+  {
+    "movie": 160,
+    "code": "5P5",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 458,
+    "datetime": "2023 4.7. 19:00",
+    "timestamp": 1656961200
+  },
+  {
+    "movie": 161,
+    "code": "2D1",
+    "date": "1.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 459,
+    "datetime": "2023 1.7. 10:00",
+    "timestamp": 1656669600
+  },
+  {
+    "movie": 161,
+    "code": "554",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 460,
+    "datetime": "2023 4.7. 17:00",
+    "timestamp": 1656954000
+  },
+  {
+    "movie": 161,
+    "code": "921",
+    "date": "8.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 461,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 162,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 462,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 162,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 463,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 162,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 464,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 163,
+    "code": "3K5",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 465,
+    "datetime": "2023 2.7. 15:00",
+    "timestamp": 1656774000
+  },
+  {
+    "movie": 163,
+    "code": "454",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 466,
+    "datetime": "2023 3.7. 17:00",
+    "timestamp": 1656867600
+  },
+  {
+    "movie": 164,
+    "code": "718",
+    "date": "6.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 467,
+    "datetime": "2023 6.7. 20:00",
+    "timestamp": 1657137600
+  },
+  {
+    "movie": 164,
+    "code": "8P2",
+    "date": "7.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 468,
+    "datetime": "2023 7.7. 13:00",
+    "timestamp": 1657198800
+  },
+  {
+    "movie": 164,
+    "code": "935",
+    "date": "8.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 469,
+    "datetime": "2023 8.7. 16:00",
+    "timestamp": 1657296000
+  },
+  {
+    "movie": 164,
+    "code": "9L5",
+    "date": "8.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 470,
+    "datetime": "2023 8.7. 19:00",
+    "timestamp": 1657306800
+  },
+  {
+    "movie": 165,
+    "code": "528",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 471,
+    "datetime": "2023 4.7. 23:59",
+    "timestamp": 1656979140
+  },
+  {
+    "movie": 165,
+    "code": "828",
+    "date": "7.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 472,
+    "datetime": "2023 7.7. 23:59",
+    "timestamp": 1657238340
+  },
+  {
+    "movie": 166,
+    "code": "2K6",
+    "date": "1.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 473,
+    "datetime": "2023 1.7. 18:00",
+    "timestamp": 1656698400
+  },
+  {
+    "movie": 166,
+    "code": "656",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 474,
+    "datetime": "2023 5.7. 20:00",
+    "timestamp": 1657051200
+  },
+  {
+    "movie": 166,
+    "code": "8D5",
+    "date": "7.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 475,
+    "datetime": "2023 7.7. 22:00",
+    "timestamp": 1657231200
+  },
+  {
+    "movie": 167,
+    "code": "324",
+    "date": "2.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 476,
+    "datetime": "2023 2.7. 15:00",
+    "timestamp": 1656774000
+  },
+  {
+    "movie": 167,
+    "code": "4C6",
+    "date": "3.7.",
+    "cinema": "Kino \u010cas",
+    "id": 477,
+    "datetime": "2023 3.7. 18:00",
+    "timestamp": 1656871200
+  },
+  {
+    "movie": 167,
+    "code": "654",
+    "date": "5.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 478,
+    "datetime": "2023 5.7. 17:00",
+    "timestamp": 1657040400
+  },
+  {
+    "movie": 167,
+    "code": "8K3",
+    "date": "7.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 479,
+    "datetime": "2023 7.7. 12:00",
+    "timestamp": 1657195200
+  },
+  {
+    "movie": 168,
+    "code": "3C1",
+    "date": "2.7.",
+    "cinema": "Kino \u010cas",
+    "id": 480,
+    "datetime": "2023 2.7. 9:00",
+    "timestamp": 1656752400
+  },
+  {
+    "movie": 168,
+    "code": "727",
+    "date": "6.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 481,
+    "datetime": "2023 6.7. 21:00",
+    "timestamp": 1657141200
+  },
+  {
+    "movie": 168,
+    "code": "8K5",
+    "date": "7.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 482,
+    "datetime": "2023 7.7. 15:00",
+    "timestamp": 1657206000
+  },
+  {
+    "movie": 169,
+    "code": "3K5",
+    "date": "2.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 483,
+    "datetime": "2023 2.7. 15:00",
+    "timestamp": 1656774000
+  },
+  {
+    "movie": 169,
+    "code": "454",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 484,
+    "datetime": "2023 3.7. 17:00",
+    "timestamp": 1656867600
+  },
+  {
+    "movie": 170,
+    "code": "2C7",
+    "date": "1.7.",
+    "cinema": "Kino \u010cas",
+    "id": 485,
+    "datetime": "2023 1.7. 21:00",
+    "timestamp": 1656709200
+  },
+  {
+    "movie": 170,
+    "code": "3H3",
+    "date": "2.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 486,
+    "datetime": "2023 2.7. 16:30",
+    "timestamp": 1656779400
+  },
+  {
+    "movie": 170,
+    "code": "7H1",
+    "date": "6.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 487,
+    "datetime": "2023 6.7. 10:30",
+    "timestamp": 1657103400
+  },
+  {
+    "movie": 171,
+    "code": "2L5",
+    "date": "1.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 488,
+    "datetime": "2023 1.7. 19:00",
+    "timestamp": 1656702000
+  },
+  {
+    "movie": 171,
+    "code": "436",
+    "date": "3.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 489,
+    "datetime": "2023 3.7. 19:00",
+    "timestamp": 1656874800
+  },
+  {
+    "movie": 171,
+    "code": "6H1",
+    "date": "5.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 490,
+    "datetime": "2023 5.7. 10:30",
+    "timestamp": 1657017000
+  },
+  {
+    "movie": 172,
+    "code": "4D3",
+    "date": "3.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 491,
+    "datetime": "2023 3.7. 16:00",
+    "timestamp": 1656864000
+  },
+  {
+    "movie": 172,
+    "code": "5C3",
+    "date": "4.7.",
+    "cinema": "Kino \u010cas",
+    "id": 492,
+    "datetime": "2023 4.7. 12:00",
+    "timestamp": 1656936000
+  },
+  {
+    "movie": 172,
+    "code": "6L1",
+    "date": "5.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 493,
+    "datetime": "2023 5.7. 10:00",
+    "timestamp": 1657015200
+  },
+  {
+    "movie": 172,
+    "code": "752",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 494,
+    "datetime": "2023 6.7. 11:30",
+    "timestamp": 1657107000
+  },
+  {
+    "movie": 173,
+    "code": "1K5",
+    "date": "30.6.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 495,
+    "datetime": "2023 30.6. 15:00",
+    "timestamp": 1656601200
+  },
+  {
+    "movie": 173,
+    "code": "7P2",
+    "date": "6.7.",
+    "cinema": "Kinos\u00e1l Pupp",
+    "id": 496,
+    "datetime": "2023 6.7. 13:00",
+    "timestamp": 1657112400
+  },
+  {
+    "movie": 174,
+    "code": "525",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 497,
+    "datetime": "2023 4.7. 18:00",
+    "timestamp": 1656957600
+  },
+  {
+    "movie": 175,
+    "code": "524",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 498,
+    "datetime": "2023 4.7. 15:00",
+    "timestamp": 1656946800
+  },
+  {
+    "movie": 176,
+    "code": "525",
+    "date": "4.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 499,
+    "datetime": "2023 4.7. 18:00",
+    "timestamp": 1656957600
+  },
+  {
+    "movie": 177,
+    "code": "3L4",
+    "date": "2.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 500,
+    "datetime": "2023 2.7. 16:00",
+    "timestamp": 1656777600
+  },
+  {
+    "movie": 177,
+    "code": "611",
+    "date": "5.7.",
+    "cinema": "Velk\u00fd s\u00e1l",
+    "id": 501,
+    "datetime": "2023 5.7. 8:30",
+    "timestamp": 1657009800
+  },
+  {
+    "movie": 178,
+    "code": "2D3",
+    "date": "1.7.",
+    "cinema": "Karlovarsk\u00e9 m\u011bstsk\u00e9 divadlo",
+    "id": 502,
+    "datetime": "2023 1.7. 16:00",
+    "timestamp": 1656691200
+  },
+  {
+    "movie": 178,
+    "code": "3C3",
+    "date": "2.7.",
+    "cinema": "Kino \u010cas",
+    "id": 503,
+    "datetime": "2023 2.7. 12:00",
+    "timestamp": 1656763200
+  },
+  {
+    "movie": 178,
+    "code": "4L1",
+    "date": "3.7.",
+    "cinema": "L\u00e1zn\u011b III",
+    "id": 504,
+    "datetime": "2023 3.7. 10:00",
+    "timestamp": 1656842400
+  },
+  {
+    "movie": 178,
+    "code": "552",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 505,
+    "datetime": "2023 4.7. 11:30",
+    "timestamp": 1656934200
+  },
+  {
+    "movie": 179,
+    "code": "251",
+    "date": "1.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 506,
+    "datetime": "2023 1.7. 9:00",
+    "timestamp": 1656666000
+  },
+  {
+    "movie": 179,
+    "code": "551",
+    "date": "4.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 507,
+    "datetime": "2023 4.7. 9:00",
+    "timestamp": 1656925200
+  },
+  {
+    "movie": 179,
+    "code": "9C1",
+    "date": "8.7.",
+    "cinema": "Kino \u010cas",
+    "id": 508,
+    "datetime": "2023 8.7. 9:00",
+    "timestamp": 1657270800
+  },
+  {
+    "movie": 180,
+    "code": "227",
+    "date": "1.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 509,
+    "datetime": "2023 1.7. 21:00",
+    "timestamp": 1656709200
+  },
+  {
+    "movie": 180,
+    "code": "335",
+    "date": "2.7.",
+    "cinema": "Kongresov\u00fd s\u00e1l",
+    "id": 510,
+    "datetime": "2023 2.7. 16:00",
+    "timestamp": 1656777600
+  },
+  {
+    "movie": 180,
+    "code": "8H1",
+    "date": "7.7.",
+    "cinema": "Divadlo Husovka",
+    "id": 511,
+    "datetime": "2023 7.7. 10:30",
+    "timestamp": 1657189800
+  },
+  {
+    "movie": 181,
+    "code": "451",
+    "date": "3.7.",
+    "cinema": "Kinos\u00e1l B",
+    "id": 512,
+    "datetime": "2023 3.7. 9:00",
+    "timestamp": 1656838800
+  },
+  {
+    "movie": 181,
+    "code": "6K4",
+    "date": "5.7.",
+    "cinema": "Kino Drahom\u00edra",
+    "id": 513,
+    "datetime": "2023 5.7. 12:30",
+    "timestamp": 1657024200
+  },
+  {
+    "movie": 181,
+    "code": "7C6",
+    "date": "6.7.",
+    "cinema": "Kino \u010cas",
+    "id": 514,
+    "datetime": "2023 6.7. 18:00",
+    "timestamp": 1657130400
+  },
+  {
+    "movie": 182,
+    "code": "424",
+    "date": "3.7.",
+    "cinema": "Mal\u00fd s\u00e1l",
+    "id": 515,
+    "datetime": "2023 3.7. 15:00",
+    "timestamp": 1656860400
+  }
+]
