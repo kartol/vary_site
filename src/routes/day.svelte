@@ -15,7 +15,7 @@
         <b>{day}</b>
     </div>
     <div class="right">
-        <Time timestamp={"2023" + "-" + day.split('.')[1] + "-" + day.split('.')[0]} format="dddd"/>
+        <Time timestamp={"2024" + "-" + day.split('.')[1] + "-" + day.split('.')[0]} format="dddd"/>
     </div>
 </div>
 {#if visible}
