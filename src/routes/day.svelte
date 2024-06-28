@@ -29,7 +29,7 @@
                         <tbody>
                         {#each movies[screening.movie].screenings as s}
                             {#if s.id !== screening.id}
-                                <ScreeningPreview code={s.code} timestamp={s.timestamp +  31536000} cinema={s.cinema}/>
+                                <ScreeningPreview code={s.code} timestamp={s.timestamp} cinema={s.cinema}/>
                             {/if}
                         {/each}
                         </tbody>
